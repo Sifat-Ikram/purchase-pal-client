@@ -1,0 +1,1153 @@
+[
+  {
+    "image": "https://i.ibb.co/qngPqBn/apple-iphone-13-01.jpg",
+    "name": "iPhone 13",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "799.00",
+    "rating": 4.7,
+    "brand": "Apple",
+    "details": "The iPhone 13 emerges as the epitome of technological prowess and design finesse, representing Apple's relentless pursuit of excellence in the smartphone arena. Powered by the formidable A15 Bionic chip, it sets a new standard for performance, seamlessly navigating through tasks with unprecedented speed and efficiency. Its Super Retina XDR display, adorned with OLED technology and HDR support, delivers an immersive visual feast, showcasing vibrant colors, deep blacks, and breathtaking contrast for an unparalleled viewing experience. With an advanced dual-camera system, comprising dual 12-megapixel rear lenses and a TrueDepth front camera, the iPhone 13 captures moments in stunning detail, even in challenging lighting conditions, while enabling secure Face ID authentication and exquisite selfies. Complemented by impressive battery endurance and 5G connectivity, it ensures uninterrupted productivity and seamless streaming, whether at home or on the move. In essence, the iPhone 13 transcends the boundaries of innovation, offering a harmonious blend of performance, aesthetics, and functionality that is sure to captivate tech enthusiasts, professionals, and discerning users alike, cementing its status as a true icon of modern technology."
+  },
+  {
+    "image": "https://i.ibb.co/G5DTwVt/Restored-Samsung-Galaxy-S21-5-G-128-GB-G991-U-Fully-Unlocked-Smartphone-Refurbished-dcf28e36-4c71-49.jpg",
+    "name": "Samsung Galaxy S21",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "899.00",
+    "rating": 4.6,
+    "brand": "Samsung",
+    "details": "The Samsung Galaxy S21 boasts cutting-edge features and an elegant design, representing Samsung's commitment to innovation. Equipped with a powerful Exynos chipset, it delivers smooth performance and enhanced efficiency. Its Dynamic AMOLED display offers stunning visuals with vibrant colors and deep blacks, ideal for multimedia consumption and gaming. The triple-camera system captures breathtaking photos and videos, while features like 8K video recording and Space Zoom unlock new creative possibilities. With 5G connectivity and long-lasting battery life, the Galaxy S21 ensures seamless connectivity and productivity on the go, making it a top choice for discerning users."
+  },
+  {
+    "image": "https://i.ibb.co/8rPLt1d/Morning-mist-gallery.png",
+    "name": "OnePlus 9 Pro",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "899.00",
+    "rating": 4.8,
+    "brand": "OnePlus",
+    "details": "The OnePlus 9 Pro redefines flagship performance with its cutting-edge features and sleek design. Powered by the lightning-fast Snapdragon 888 chipset, it delivers smooth and responsive performance for gaming, multitasking, and more. Its Fluid AMOLED display boasts a high refresh rate and HDR10+ support, providing stunning visuals with vibrant colors and sharp details. The Hasselblad quad-camera system captures professional-quality photos and videos, offering versatility and creative control. With Warp Charge technology and a large battery, the OnePlus 9 Pro ensures all-day usage without compromise. Combining premium design, powerful performance, and advanced camera capabilities, the OnePlus 9 Pro is the ultimate smartphone for tech enthusiasts and professionals alike."
+  },
+  {
+    "image": "https://i.ibb.co/d2ZjFn5/Pre-Owned-Google-Pixel-6-Pro-Fully-Unlocked-128-GB-Black-6-71-in-Refurbished-Good-17005cd0-3ebc-47f1.jpg",
+    "name": "Google Pixel 6",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "799.00",
+    "rating": 4.5,
+    "brand": "Google",
+    "details": "The Google Pixel 6 represents a leap forward in smartphone innovation, combining advanced technology with intuitive features. Powered by the Google Tensor chipset, it delivers exceptional performance and AI-powered capabilities for seamless multitasking and enhanced user experiences. Its Pixel Neural Core enhances photography and video recording, capturing stunning images and videos in any lighting condition. The vibrant OLED display with Adaptive Refresh Rate provides smooth visuals and immersive gaming experiences. With Google's commitment to software updates and security, the Pixel 6 offers peace of mind and longevity. Sleek design, cutting-edge features, and Google's renowned software experience make the Pixel 6 a standout choice for discerning users."
+  },
+  {
+    "image": "https://i.ibb.co/MfL2sxb/cats-1-500x500.jpg",
+    "name": "Xiaomi Mi 11",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "699.00",
+    "rating": 4.6,
+    "brand": "Xiaomi",
+    "details": "The Xiaomi Mi 11 showcases Xiaomi's commitment to innovation and affordability, offering flagship-level features at a competitive price point. Powered by the Snapdragon 888 chipset, it delivers exceptional performance for gaming, productivity, and multimedia consumption. The stunning AMOLED display with a high refresh rate provides immersive visuals with vibrant colors and deep blacks, perfect for streaming content and gaming. The triple-camera system, co-developed with Xiaomi, captures stunning photos and videos in any scenario, while advanced AI features enhance creativity and usability. With fast charging capabilities and a large battery, the Xiaomi Mi 11 ensures all-day usage without compromise. Sleek design, powerful performance, and an affordable price tag make the Mi 11 a compelling choice for tech enthusiasts and budget-conscious consumers."
+  },
+  {
+    "image": "https://i.ibb.co/ZSvn651/Oppo-Find-X3-Pro-Cosmic-Mocha-500x500.jpg",
+    "name": "OPPO Find X3 Pro",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "999.00",
+    "rating": 4.7,
+    "brand": "OPPO",
+    "details": "The OPPO Find X3 Pro is a premium flagship smartphone that combines cutting-edge technology with exquisite design. Powered by the Snapdragon 888 chipset, it offers blazing-fast performance and smooth multitasking capabilities for even the most demanding users. Its 120Hz AMOLED display with QHD+ resolution delivers stunning visuals with vibrant colors and deep blacks, making it ideal for multimedia consumption and gaming. The versatile quad-camera system, co-engineered with Sony, captures breathtaking photos and videos in any lighting condition, while features like 10-bit color capture and AI scene enhancement elevate the photography experience. With fast charging and wireless charging capabilities, the OPPO Find X3 Pro ensures all-day usage without interruption. Crafted with premium materials and attention to detail, the Find X3 Pro sets a new standard for flagship smartphones, offering a perfect blend of performance, style, and innovation."
+  },
+  {
+    "image": "https://i.ibb.co/2vSN4T9/Sony-Xperia-1-III.jpg",
+    "name": "Sony Xperia 1 III",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "1099.00",
+    "rating": 4.8,
+    "brand": "Sony",
+    "details": "The Sony Xperia 1 III is a flagship smartphone designed for professionals and multimedia enthusiasts, combining cutting-edge technology with Sony's expertise in imaging and audio. Powered by the Snapdragon 888 chipset, it offers exceptional performance and multitasking capabilities, making it ideal for gaming, productivity, and content creation. Its 4K OLED display with a 120Hz refresh rate provides stunning visuals with vibrant colors and true-to-life contrast, perfect for streaming high-resolution content and gaming. The triple-camera system, co-developed with Sony's Alpha camera division, delivers professional-quality photos and videos with advanced autofocus and real-time tracking. With features like 3.5mm audio jack and Hi-Res audio support, the Xperia 1 III offers an immersive audio experience, ideal for music enthusiasts and audiophiles. Crafted with premium materials and attention to detail, the Xperia 1 III exudes elegance and sophistication, setting a new standard for flagship smartphones."
+  },
+  {
+    "image": "https://i.ibb.co/NmnZbhy/63eea051d54b991124309673-lg-wing-5g-256-gb-gray-t-mobile.jpg",
+    "name": "LG Wing",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "999.00",
+    "rating": 4.6,
+    "brand": "LG",
+    "details": "The LG Wing is a unique smartphone that pushes the boundaries of innovation with its swivel design and dual-screen experience. Powered by the Snapdragon 765G chipset, it offers smooth performance and multitasking capabilities for productivity and entertainment. Its main display swivels to reveal a secondary display, providing enhanced multitasking and creative possibilities for content creation and gaming. The versatile triple-camera system captures stunning photos and videos in both standard and swivel modes, offering versatility and flexibility for capturing memories in any scenario. With features like Gimbal Motion Camera and ASMR Recording, the LG Wing unlocks new creative possibilities for content creators and social media enthusiasts. Designed to stand out from the crowd, the LG Wing combines innovative design, powerful performance, and versatile features, making it a compelling choice for those looking for a unique smartphone experience."
+  },
+  {
+    "image": "https://i.ibb.co/hM77qpJ/2-c89f67769e.png",
+    "name": "Realme GT",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "599.00",
+    "rating": 4.5,
+    "brand": "realme",
+    "details": "The Realme GT is a flagship smartphone that offers exceptional performance and features at an affordable price point. Powered by the Snapdragon 888 chipset, it delivers blazing-fast performance and smooth multitasking capabilities for gaming, productivity, and multimedia consumption. Its Super AMOLED display with a high refresh rate provides stunning visuals with vibrant colors and smooth animations, perfect for immersive gaming and content consumption. The triple-camera system captures stunning photos and videos in any lighting condition, offering versatility and creative control for capturing memories. With features like 65W SuperDart charging and a large battery, the realme GT ensures all-day usage without compromise. Sleek design, powerful performance, and an affordable price tag make the realme GT a compelling choice for tech enthusiasts and budget-conscious consumers."
+  },
+  {
+    "image": "https://i.ibb.co/6F22YVx/4162-Oh-Km-Ml-L-AC-UF1000-1000-QL80.jpg",
+    "name": "Huawei Mate 40 Pro",
+    "type": "Smartphone",
+    "category": "Electronics",
+    "price": "1199.00",
+    "rating": 4.7,
+    "brand": "Huawei",
+    "details": "The Huawei Mate 40 Pro is a premium flagship smartphone that combines cutting-edge technology with elegant design. Powered by the Kirin 9000 chipset, it offers exceptional performance and AI capabilities for gaming, productivity, and photography. Its Horizon Display with a 90Hz refresh rate provides stunning visuals with vibrant colors and smooth animations, perfect for immersive gaming and multimedia consumption. The versatile quad-camera system, co-engineered with Leica, captures stunning photos and videos in any scenario, offering unparalleled creativity and versatility. With features like 66W SuperCharge and a large battery, the Mate 40 Pro ensures all-day usage without compromise. Crafted with premium materials and attention to detail, the Mate 40 Pro exudes elegance and sophistication, making it a standout choice for discerning users."
+  },
+  {
+    "image": "https://i.ibb.co/tq34dSM/Samsung-QN90-A-8.jpg",
+    "name": "Samsung QN90A",
+"category": "Electronics",
+    "type": "Television",
+    "price": "1999.99",
+    "rating": 4.8,
+    "brand": "Samsung",
+    "details": "The Samsung QN90A Neo QLED 4K Smart TV is the pinnacle of home entertainment, combining cutting-edge technology, stunning design, and immersive features to deliver an unparalleled viewing experience.\n\nFeaturing Samsung's revolutionary Neo Quantum Processor, the QN90A delivers breathtaking picture quality with vibrant colors, deep blacks, and stunning contrast. With Quantum HDR 32X technology, this TV enhances every detail of your favorite movies, shows, and games, bringing them to life like never before.\n\nThe QN90A features an Infinity Screen design, with virtually bezel-less edges and a sleek, slim profile that enhances any living space. Whether you mount it on the wall or place it on a stand, the QN90A adds a touch of elegance to any room.\n\nOne of the standout features of the QN90A is its Object Tracking Sound technology, which delivers immersive 3D audio that follows the action on screen. With built-in speakers on all sides of the TV, you'll feel like you're right in the middle of the action, whether you're watching a blockbuster movie or playing a video game.\n\nThe QN90A is also a smart TV, powered by Samsung's Tizen operating system, which provides easy access to your favorite streaming services, apps, and content. With built-in voice assistants like Bixby, Alexa, and Google Assistant, you can control your TV and smart home devices with simple voice commands.\n\nOverall, the Samsung QN90A Neo QLED 4K Smart TV sets a new standard for home entertainment, with its stunning picture quality, immersive sound, and smart features. Whether you're a movie buff, a sports fan, or a gamer, the QN90A delivers an unrivaled viewing experience that will truly elevate your home entertainment setup."
+  },
+  {
+    "name": "LG OLED C1 Series 55-Inch Smart TV",
+    "image": "https://i.ibb.co/NFBKMKP/6453324cv25d.jpg",
+    "price": "1499.99",
+    "brand": "LG",
+    "description": "Elevate your viewing experience with the LG OLED C1 Series 55-Inch Smart TV. With self-lit pixels, infinite contrast, and Dolby Vision IQ, it delivers breathtaking visuals and immersive sound for a cinema-like experience at home.",
+    "rating": 4.7,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "Sony BRAVIA XR A80J Series 65-Inch Smart TV",
+    "image": "https://i.ibb.co/MsLzY96/Jx-NMpes-E1-UB2-Xk-SZ4-Wl55t-XDy3-ZJQXNOy1-Sn-O973.jpg",
+    "price": "1999.99",
+    "brand": "Sony",
+    "description": "Immerse yourself in entertainment with the Sony BRAVIA XR A80J Series 65-Inch Smart TV. Powered by Cognitive Processor XR, it delivers lifelike picture quality, immersive sound, and seamless gaming experiences for an unparalleled viewing experience.",
+    "rating": 4.9,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "TCL 6-Series 55-Inch Roku TV",
+    "image": "https://i.ibb.co/FwzwFT2/91-Zrvnzne-ML-AC-SL1500.jpg",
+    "price": "799.99",
+    "brand": "TCL",
+    "description": "Enjoy stunning visuals and smart features with the TCL 6-Series 55-Inch Roku TV. With 4K UHD resolution, Dolby Vision HDR, and built-in Roku streaming, it's the perfect addition to any entertainment setup.",
+    "rating": 4.6,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "VIZIO M-Series Quantum 65-Inch Smart TV",
+    "image": "https://i.ibb.co/txqk2s4/cq5dam-web-640-480.png",
+    "price": "999.99",
+    "brand": "VIZIO",
+    "description": "Upgrade your home theater with the VIZIO M-Series Quantum 65-Inch Smart TV. Featuring Quantum Color technology, 4K HDR, and VIZIO SmartCast, it delivers vibrant colors and immersive sound for an exceptional viewing experience.",
+    "rating": 4.5,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "Hisense ULED U8 Series 75-Inch Smart TV",
+    "image": "https://i.ibb.co/kXKxJfh/6511977-sd.jpg",
+    "price": "1299.99",
+    "brand": "Hisense",
+    "description": "Get ready for immersive entertainment with the Hisense ULED U8 Series 75-Inch Smart TV. With Quantum Dot technology, Dolby Vision HDR, and Dolby Atmos audio, it delivers stunning visuals and breathtaking sound for an unparalleled viewing experience.",
+    "rating": 4.7,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "Panasonic OLED JZ2000 Series 65-Inch Smart TV",
+    "image": "https://i.ibb.co/yF3j6pd/TX-65-JZ2000-B-1-Supersize.jpg",
+    "price": "2999.99",
+    "brand": "Panasonic",
+    "description": "Experience cinematic excellence with the Panasonic OLED JZ2000 Series 65-Inch Smart TV. Featuring HCX Pro AI processor, Dolby Vision IQ, and Dolby Atmos audio, it delivers unrivaled picture quality and immersive sound for a true theater-like experience.",
+    "rating": 4.9,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "name": "Sharp Aquos 4K Ultra HD Smart LED TV",
+    "image": "https://i.ibb.co/xJ0Znnr/7027024-rd.jpg",
+    "price": "899.99",
+    "brand": "Sharp",
+    "description": "Transform your living room into a home theater with the Sharp Aquos 4K Ultra HD Smart LED TV. With 4K resolution, HDR support, and built-in Roku TV, it offers stunning visuals and smart entertainment options for the whole family.",
+    "rating": 4.5,
+"category": "Electronics",
+    "type": "Television"
+  },
+  {
+    "image": "https://i.ibb.co/SnfDMpR/macbook-pro-14-m2-max.jpg",
+    "name": "MacBook Pro 14",
+    "type": "Laptop",
+    "category": "Electronics",
+    "price": "1499.00",
+    "rating": 4.9,
+    "brand": "Apple",
+    "details": "The MacBook Pro is Apple's flagship laptop, designed for professionals and power users who demand the best performance and features. With its sleek design, powerful hardware, and stunning Retina display, the MacBook Pro sets the standard for premium laptops.\n\nAt the heart of the MacBook Pro is the groundbreaking M1 Pro chip, engineered by Apple to deliver unparalleled performance and efficiency. With up to 10-core CPU and 32-core GPU options, the M1 Pro chip delivers blazing-fast speeds and seamless multitasking, whether you're editing 4K videos, compiling code, or running professional applications.\n\nThe MacBook Pro features a stunning Liquid Retina XDR display, with True Tone technology and P3 wide color gamut for accurate colors and true-to-life images. Whether you're editing photos and videos or watching movies, the MacBook Pro's display delivers an immersive viewing experience with exceptional clarity and detail.\n\nIn addition to its powerful performance and stunning display, the MacBook Pro also offers advanced connectivity options, including Thunderbolt 4 ports for fast data transfer and charging. With Wi-Fi 6 and Bluetooth 5.0 support, you can stay connected to the internet and your devices with ease.\n\nThe MacBook Pro also features a redesigned keyboard with a scissor mechanism for a comfortable typing experience, as well as a large Force Touch trackpad for precise cursor control and gesture navigation.\n\nWith its premium design, powerful performance, and innovative features, the MacBook Pro is the ultimate laptop for professionals and power users who demand the best. Whether you're a creative professional, a developer, or a business user, the MacBook Pro empowers you to do more, wherever you go."
+  },
+  {
+    "name": "Apple MacBook Pro 13-inch",
+    "image": "https://i.ibb.co/qy1wmmM/00100tr-PORTRAIT-00100-BURST20200506153653558-COVER.jpg",
+    "price": "1299.99",
+    "brand": "Apple",
+    "rating": 4.8,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Apple MacBook Pro 13-inch is a powerful and portable laptop designed for professionals and creatives. Featuring a stunning Retina display, fast performance, and all-day battery life, it's perfect for work and entertainment on the go. With the latest M1 chip, it delivers exceptional speed and efficiency, allowing you to tackle demanding tasks with ease. Whether you're editing videos, designing graphics, or multitasking between apps, the MacBook Pro handles it all effortlessly. Plus, with macOS Big Sur, you get a seamless and intuitive user experience, along with access to a vast ecosystem of productivity and creativity apps. With its sleek design and cutting-edge technology, the MacBook Pro 13-inch is the ultimate tool for unleashing your creativity and productivity."
+  },
+  {
+    "name": "Dell XPS 13",
+    "image": "https://i.ibb.co/LSKdBFf/xps13-2018laptop17-800x533.jpg",
+    "price": "1199.99",
+    "brand": "Dell",
+    "rating": 4.7,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Dell XPS 13 is a premium ultrabook that combines power and portability in a sleek and stylish design. With its InfinityEdge display and virtually borderless design, the XPS 13 maximizes screen space while minimizing the overall footprint, making it perfect for on-the-go productivity. Powered by the latest Intel Core processors, it offers blazing-fast performance for multitasking, photo and video editing, and more. The XPS 13 also features an impressive battery life, so you can work or play all day without needing to recharge. Plus, with features like Windows Hello facial recognition and Thunderbolt 4 connectivity, the XPS 13 delivers a modern computing experience that's both secure and convenient."
+  },
+  {
+    "name": "HP Spectre x360",
+    "image": "https://i.ibb.co/bNPcrWj/f-GYDSb35p6-W3m-C2m-CCHhx-U.jpg",
+    "price": "1499.99",
+    "brand": "HP",
+    "rating": 4.6,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The HP Spectre x360 is a versatile convertible laptop that adapts to your needs, whether you're working, creating, or relaxing. With its 360-degree hinge and touchscreen display, you can easily switch between laptop, tent, stand, and tablet modes to suit your workflow. Powered by Intel Core processors and Intel Iris Xe graphics, the Spectre x360 delivers smooth performance for everyday computing tasks and multimedia editing. It also features a long-lasting battery, so you can stay productive all day without needing to plug in. Plus, with features like Windows Ink and HP Pen support, the Spectre x360 offers a natural and intuitive way to express your creativity and take notes on the go."
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "image": "https://i.ibb.co/FsT6R3v/AKA06111.jpg",
+    "price": "1599.99",
+    "brand": "Lenovo",
+    "rating": 4.8,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Lenovo ThinkPad X1 Carbon is a premium business laptop designed for professionals who demand power, performance, and durability. With its carbon fiber chassis and MIL-SPEC tested construction, the X1 Carbon is built to withstand the rigors of daily use and travel. Powered by Intel Core processors and Intel vPro technology, it offers fast and efficient performance for multitasking, data analysis, and virtual meetings. The X1 Carbon also features a vibrant 4K display, so you can enjoy crisp and clear visuals for presentations, video calls, and entertainment. Plus, with features like the legendary ThinkPad keyboard and robust security options, the X1 Carbon delivers a reliable and productive computing experience for professionals on the go."
+  },
+  {
+    "name": "ASUS ZenBook 14",
+    "image": "https://i.ibb.co/6nJV4Lw/6176423d-7769-46a0-ba01-a4d9008c86b9.png",
+    "price": "999.99",
+    "brand": "ASUS",
+    "rating": 4.5,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The ASUS ZenBook 14 is an ultra portable laptop that combines elegance and performance in a compact and lightweight design. With its slim bezels and NanoEdge display, the ZenBook 14 offers an immersive viewing experience with minimal distractions. Powered by AMD Ryzen processors and AMD Radeon graphics, it delivers fast and responsive performance for productivity, creativity, and entertainment. The ZenBook 14 also features a precision-engineered ErgoLift hinge, which tilts the keyboard for comfortable typing and better airflow. Plus, with features like ASUS NumberPad 2.0 and Alexa voice control, the ZenBook 14 offers a seamless and intuitive computing experience that adapts to your needs."
+  },
+  {
+    "name": "Acer Swift 3",
+    "image": "https://i.ibb.co/LSK3hFq/150582-laptops-review-hands-on-acer-swift-3-2020-review-image1-c0lyzarnu5.jpg",
+    "price": "699.99",
+    "brand": "Acer",
+    "rating": 4.6,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Acer Swift 3 is a budget-friendly laptop that offers solid performance and reliability for everyday computing tasks. With its sleek aluminum chassis and compact design, the Swift 3 is perfect for students, professionals, and anyone on the go. Powered by AMD Ryzen processors and Radeon graphics, it delivers responsive performance for web browsing, email, streaming, and more. The Swift 3 also features a long-lasting battery, so you can stay productive all day without needing to recharge. Plus, with features like Acer TrueHarmony audio and Acer Color Intelligence, the Swift 3 offers an immersive multimedia experience that's perfect for work and play."
+  },
+  {
+    "name": "Microsoft Surface Laptop 4",
+    "image": "https://i.ibb.co/LQktWr2/microsoft-surface-4-1618868054.jpg",
+    "price": "1299.99",
+    "brand": "Microsoft",
+    "rating": 4.7,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Microsoft Surface Laptop 4 is a premium touchscreen laptop that offers the perfect balance of style, performance, and portability. With its sleek and minimalist design, the Surface Laptop 4 is crafted to impress, whether you're in the office or on the go. Powered by Intel Core processors and Intel Iris Xe graphics, it delivers fast and efficient performance for multitasking, creative tasks, and entertainment. The Surface Laptop 4 also features a vibrant PixelSense display with touchscreen support, so you can interact with apps, content, and media with ease. Plus, with features like Windows Hello facial recognition and Surface Pen support, the Surface Laptop 4 offers a modern computing experience that adapts to your needs."
+  },
+  {
+    "name": "Razer Blade 15",
+    "image": "https://i.ibb.co/8gYbfMZ/4zu3-Razer-Blade-15-Studio-Edition.jpg",
+    "price": "2099.99",
+    "brand": "Razer",
+    "rating": 4.9,
+    "type": "Laptop",
+    "category": "Electronics",
+    "description": "The Razer Blade 15 is a high-performance gaming laptop that combines power and style in a sleek and compact design. With its CNC aluminum unibody chassis and customizable RGB lighting, the Blade 15 stands out from the crowd, whether you're gaming at home or on the go. Powered by Intel Core processors and NVIDIA GeForce RTX graphics, it delivers smooth and responsive gaming performance for AAA titles, esports, and VR experiences. The Blade 15 also features a fast refresh rate display, so you can enjoy fluid gameplay with minimal motion blur and tearing. Plus, with features like Razer Synapse and Chroma Studio, the Blade 15 offers endless customization options to personalize your gaming experience."
+  },
+  {
+    "name": "Canon EOS 90D DSLR Camera",
+    "image": "https://i.ibb.co/YW9LT9G/cn-3616c002-06.jpg",
+    "price": "1199.99",
+    "brand": "Canon",
+    "rating": 4.8,
+    "type": "DSLR",
+    "category": "Electronics",
+    "description": "The Canon EOS 90D DSLR Camera is a versatile and powerful camera designed for photographers and content creators. With its 32.5MP APS-C CMOS sensor and DIGIC 8 image processor, it delivers stunning image quality and fast performance for capturing moments with precision and clarity. The EOS 90D also features 4K video recording at 30p, allowing you to create cinematic videos with ease. Whether you're shooting portraits, landscapes, or action scenes, the EOS 90D offers advanced autofocus and tracking capabilities to ensure sharp and accurate results. With its ergonomic design and intuitive controls, the EOS 90D is comfortable to use for extended periods, making it the perfect tool for unleashing your creativity and capturing unforgettable moments."
+  },
+  {
+    "name": "Nikon Z6 II Mirrorless Camera",
+    "image": "https://i.ibb.co/sy89Sr0/127849-en-z6ii-24-50-4-6-3-front34l.png",
+    "price": "1999.99",
+    "brand": "Nikon",
+    "rating": 4.7,
+    "type": "Mirrorless",
+    "category": "Electronics",
+    "description": "The Nikon Z6 II Mirrorless Camera is a professional-grade camera that offers exceptional image quality, speed, and versatility. With its 24.5MP BSI CMOS sensor and dual EXPEED 6 image processors, it delivers stunning stills and videos with rich detail and natural colors, even in low-light conditions. The Z6 II also features 4K UHD video recording at 60p, along with advanced video features like N-Log and 10-bit HDMI output for professional-grade video production. Whether you're shooting stills or videos, the Z6 II offers fast and accurate autofocus performance, with eye-detection and animal-detection AF for capturing subjects with precision. With its robust build quality and weather-sealed design, the Z6 II is built to withstand the rigors of professional use, making it the perfect choice for photographers and videographers alike."
+  },
+  {
+    "name": "Sony Alpha a7 III Mirrorless Camera",
+    "image": "https://i.ibb.co/hcjm9cm/Uqyt-THKp-Wgof-Id-AP5a5p-TDCQXFHOZLCuygi7s4-KW.jpg",
+    "price": "1999.99",
+    "brand": "Sony",
+    "rating": 4.9,
+    "type": "Mirrorless",
+    "category": "Electronics",
+    "description": "The Sony Alpha a7 III Mirrorless Camera is a full-frame powerhouse that combines high-resolution imaging and impressive speed in a compact and lightweight body. With its 24.2MP Exmor R CMOS sensor and BIONZ X image processor, it delivers outstanding image quality and low-light performance, with a wide ISO range of 100-51200. The a7 III also features 4K video recording at 30p, with S-Log2 and S-Log3 gamma profiles for enhanced dynamic range and color grading flexibility. Whether you're shooting stills or videos, the a7 III offers fast and precise autofocus performance, with 693 phase-detection and 425 contrast-detection AF points covering 93% of the frame. With its 5-axis in-body image stabilization, the a7 III allows you to capture sharp and steady shots handheld, even in challenging shooting conditions."
+  },
+  {
+    "name": "Fujifilm X-T4 Mirrorless Camera",
+    "image": "https://i.ibb.co/FYTH7pC/Fuji-X-T4-XF-35mm-f1-4-R-Lens-FIrst-Impressions-Review-8.jpg",
+    "price": "1699.99",
+    "brand": "Fujifilm",
+    "rating": 4.8,
+    "type": "Mirrorless",
+    "category": "Electronics",
+    "description": "The Fujifilm X-T4 Mirrorless Camera is a versatile and feature-rich camera designed for photographers and videographers. With its 26.1MP X-Trans CMOS 4 sensor and X-Processor 4 image processor, it delivers exceptional image quality and high-speed performance for capturing fleeting moments with precision and clarity. The X-T4 also features 4K video recording at 60p, with 10-bit 4:2:0 internal recording and F-Log gamma for cinematic video production. Whether you're shooting stills or videos, the X-T4 offers fast and accurate autofocus performance, with phase-detection AF covering the entire frame. With its durable magnesium alloy body and weather-sealed construction, the X-T4 is built to withstand the rigors of professional use, making it the perfect choice for demanding photographers and filmmakers."
+  },
+  {
+    "name": "Panasonic Lumix GH5 Mirrorless Camera",
+    "image": "https://i.ibb.co/0cD20hs/panasonic-lumix-gh5-hero.jpg",
+    "price": "1699.99",
+    "brand": "Panasonic",
+    "rating": 4.7,
+    "type": "Mirrorless",
+    "category": "Electronics",
+    "description": "The Panasonic Lumix GH5 Mirrorless Camera is a professional-grade camera that offers exceptional image quality, versatility, and durability. With its 20.3MP Digital Live MOS sensor and Venus Engine image processor, it delivers stunning stills and videos with rich detail and natural colors, even in challenging shooting conditions. The GH5 also features 4K video recording at 60p, with 4:2:2 10-bit internal recording and V-Log L gamma for professional-grade video production. Whether you're shooting stills or videos, the GH5 offers fast and precise autofocus performance, with advanced DFD technology for quick and accurate subject tracking. With its rugged magnesium alloy body and weather-sealed design, the GH5 is built to withstand the demands of professional use, making it the perfect choice for photographers and videographers who need reliability and performance in any environment."
+  },
+  {
+    "name": "Leica Q2 Monochrom Digital Camera",
+    "image": "https://i.ibb.co/phmDqSp/q2-mono-outdoor-02-fstoppers-usman-dawood-leica-q2-monochrom-new-black-and-white-camera-macro-mode-2.jpg",
+    "price": "5995.99",
+    "brand": "Leica",
+    "rating": 4.9,
+    "type": "Compact",
+    "category": "Electronics",
+    "description": "The Leica Q2 Monochrom Digital Camera is a premium compact camera that offers exceptional image quality and timeless design in a compact and lightweight body. With its 47.3MP full-frame monochrome sensor and Maestro II image processor, it delivers stunning black-and-white images with rich tonality and fine detail, capturing the essence of every moment with unparalleled clarity. The Q2 Monochrom also features 4K video recording at 30p, allowing you to create cinematic videos with beautiful monochrome imagery. Whether you're shooting street photography, landscapes, or portraits, the Q2 Monochrom offers fast and accurate autofocus performance, with contrast-detection AF for precise subject tracking. With its sleek and minimalist design, intuitive controls, and built-in electronic viewfinder, the Q2 Monochrom is the perfect companion for photographers who demand uncompromising image quality and timeless elegance."
+  },
+  {
+    "name": "PlayStation VR Headset",
+    "image": "https://i.ibb.co/xqQSq7Y/05p-QDcnlxw-Mz18rifab-R7eg-8-v1569473967.jpg",
+    "price": "299.99",
+    "brand": "Sony",
+    "rating": 4.7,
+    "type": "Accessory",
+    "category": "Electronics",
+    "description": "The PlayStation VR Headset brings virtual reality gaming to life, allowing you to step into immersive worlds and experience gaming like never before. With its high-definition display, 3D audio technology, and precise motion tracking, the PSVR headset delivers stunning visuals, immersive sound, and precise control for an unparalleled gaming experience. Whether you're exploring exotic locales, battling enemies in epic showdowns, or solving puzzles in fantastical worlds, the PSVR headset transports you to new realms of gaming excitement. Plus, with a growing library of VR games and experiences, including blockbuster titles and indie gems, there's always something new and exciting to discover in the world of virtual reality. With its comfortable design and easy setup, the PSVR headset is the perfect addition to your PlayStation gaming setup."
+  },
+  {
+    "image": "https://i.ibb.co/6YDnXc4/Play-Station-5-Gold-Edition.jpg",
+    "name": "PlayStation 5",
+    "type": "Console",
+    "price": "499.99",
+    "rating": 4.9,
+    "brand": "Sony",
+    "category": "Electronics",
+    "details": "The PlayStation 5 is Sony's latest and most powerful gaming console, designed to deliver immersive gaming experiences with stunning graphics, lightning-fast load times, and innovative features.\n\nFeaturing a custom-designed AMD Ryzen Zen 2 CPU and RDNA 2 GPU, the PlayStation 5 delivers breathtaking graphics and smooth gameplay at up to 120 frames per second. Whether you're exploring vast open worlds, battling enemies in intense firefights, or racing against friends online, every game looks and feels incredible on the PlayStation 5.\n\nIn addition to its powerful hardware, the PlayStation 5 also introduces innovative features like haptic feedback and adaptive triggers, which provide immersive tactile sensations and enhanced gameplay experiences. Whether you're feeling the tension of drawing a bowstring or the recoil of firing a gun, the DualSense controller brings games to life in ways you've never experienced before.\n\nThe PlayStation 5 also boasts lightning-fast load times thanks to its custom SSD storage, which virtually eliminates loading screens and allows you to spend more time playing and less time waiting. With support for 3D audio and ray tracing, the PlayStation 5 delivers immersive soundscapes and realistic lighting effects that pull you deeper into your favorite games.\n\nWith its sleek design, powerful performance, and innovative features, the PlayStation 5 is the ultimate gaming console for players who demand the best. Whether you're a casual gamer, a competitive player, or a fan of immersive storytelling, the PlayStation 5 offers something for everyone, making it the centerpiece of your gaming setup."
+  },
+
+  {
+    "image": "https://i.ibb.co/RCgCFm9/fall21-features-cover.jpg",
+    "name": "Fitbit Versa 3",
+    "type": "Wearable",
+    "price": "229.95",
+    "rating": 4.6,
+    "brand": "Fitbit",
+    "category": "Electronics",
+    "details": "The Fitbit Versa 3 is a versatile smartwatch that helps you stay connected, motivated, and healthy with its advanced features and stylish design. Whether you're tracking your workouts, monitoring your sleep, or staying on top of your notifications, the Versa 3 has you covered.\n\nFeaturing built-in GPS, the Versa 3 accurately tracks your outdoor workouts like running, cycling, and hiking without the need for a smartphone. With real-time pace and distance tracking, you can see your progress in real-time and stay motivated to reach your fitness goals.\n\nThe Versa 3 also features heart rate monitoring, which tracks your heart rate 24/7 and provides insights into your overall heart health. Whether you're resting, exercising, or sleeping, the Versa 3 helps you understand how your heart responds to different activities and stressors.\n\nIn addition to its fitness tracking capabilities, the Versa 3 also offers advanced sleep tracking, which monitors your sleep stages and provides personalized insights to help you improve your sleep quality. With Sleep Score, you can see how well you slept each night and receive tips for better sleep habits.\n\nThe Versa 3 also keeps you connected to your favorite apps and notifications, allowing you to receive calls, texts, and app alerts right on your wrist. With built-in Amazon Alexa, you can use voice commands to set reminders, check the weather, and control your smart home devices with ease.\n\nWith its sleek design, long battery life, and advanced features, the Fitbit Versa 3 is the perfect companion for a healthy and active lifestyle. Whether you're a fitness enthusiast, a busy professional, or someone who simply wants to stay connected, the Versa 3 helps you live your best life, every day."
+  },
+  {
+    "image": "https://i.ibb.co/QXLvNgb/linksys-velop-ax4200-wifi6-mesh-router-system-2.jpg",
+    "name": "Linksys Velop AX4200",
+    "type": "Networking",
+    "price": "299.99",
+    "rating": 4.5,
+    "brand": "Linksys",
+    "category": "Electronics",
+    "details": "The Linksys Velop AX4200 is a high-performance mesh Wi-Fi system that provides fast, reliable internet coverage for your entire home. With its tri-band technology and advanced features, the Velop AX4200 ensures seamless connectivity and maximum throughput, even in large homes with multiple devices.\n\nFeaturing Wi-Fi 6 technology, the Velop AX4200 delivers blazing-fast speeds and low latency for smooth streaming, online gaming, and video conferencing. With support for up to 1200 Mbps on the 2.4 GHz band and 2400 Mbps on each of the two 5 GHz bands, the Velop AX4200 ensures that every device in your home gets the bandwidth it needs for optimal performance.\n\nThe Velop AX4200 is easy to set up and manage with the Linksys mobile app, which guides you through the installation process and allows you to monitor your network, prioritize devices, and perform speed tests from anywhere. With parental controls and guest access features, you can manage your network and keep your family safe online.\n\nIn addition to its advanced networking capabilities, the Velop AX4200 features a sleek, compact design that blends seamlessly into any home environment. Whether you place it on a shelf, countertop, or bookcase, the Velop AX4200 adds a touch of style to your home while providing powerful Wi-Fi coverage.\n\nWith its high-performance tri-band Wi-Fi, easy-to-use app, and sleek design, the Linksys Velop AX4200 is the ultimate mesh Wi-Fi system for modern homes. Whether you're streaming 4K movies, gaming online, or video conferencing with colleagues, the Velop AX4200 ensures that your home network is fast, reliable, and secure."
+  },
+  {
+    "image": "https://i.ibb.co/Ltvj9F4/JBL-Flip-6-hero-brick.jpg",
+    "name": "JBL Flip 6",
+    "type": "Speaker",
+    "price": "129.95",
+    "rating": 4.7,
+    "brand": "JBL",
+    "category": "Electronics",
+    "details": "The JBL Flip 6 is a portable Bluetooth speaker that delivers powerful sound and long-lasting battery life in a compact and rugged design. Whether you're at home, at the beach, or on a hiking trail, the Flip 6 lets you take your music wherever you go.\n\nFeaturing dual passive radiators and a racetrack-shaped driver, the Flip 6 delivers deep, punchy bass and crisp highs with room-filling sound. Whether you're listening to your favorite playlists, podcasts, or audiobooks, every sound comes through with stunning clarity and detail.\n\nWith its IP67 waterproof and dustproof rating, the Flip 6 is built to withstand the elements, making it perfect for outdoor adventures and poolside parties. Whether you're at the beach, by the pool, or on a boat, the Flip 6 can handle splashes, spills, and even submersion in water.\n\nThe Flip 6 also features a built-in rechargeable battery that provides up to 12 hours of continuous playback on a single charge. Whether you're listening to music all day at the beach or enjoying a night of camping under the stars, the Flip 6 keeps the party going without missing a beat.\n\nWith its rugged design, powerful sound, and long-lasting battery life, the JBL Flip 6 is the perfect companion for music lovers who are always on the go. Whether you're traveling, adventuring, or just relaxing at home, the Flip 6 lets you enjoy your favorite music wherever life takes you."
+  },
+  {
+    "name": "Bose Home Speaker 500",
+    "image": "https://i.ibb.co/Tc1qQ43/bose-home-speaker-500-00018.jpg",
+    "price": "399.99",
+    "brand": "Bose",
+    "rating": 4.7,
+    "type": "Smart Speaker",
+    "category": "Electronics",
+    "description": "The Bose Home Speaker 500 combines room-filling sound with built-in voice control and advanced features for an immersive listening experience. With its sleek design and two custom drivers, the Home Speaker 500 delivers powerful, lifelike sound that fills any room with rich, detailed audio. Plus, with built-in Amazon Alexa and Google Assistant, you can control your music, check the news, and control smart home devices using just your voice. Whether you're listening to your favorite playlists, podcasts, or radio stations, the Home Speaker 500 adapts to any environment and delivers stunning sound quality. With its seamless integration with the Bose Music app and support for streaming services like Spotify, Pandora, and Apple Music, the Home Speaker 500 is the perfect smart speaker for music lovers and smart home enthusiasts."
+  },
+  {
+    "image": "https://i.ibb.co/Y2MvGy3/Bose-Quiet-Comfort-45-11-1920x1080-1.jpg",
+    "name": "Bose QuietComfort 45",
+    "type": "Headphones",
+    "price": "329.00",
+    "rating": 4.8,
+    "brand": "Bose",
+    "category": "Electronics",
+    "details": "The Bose QuietComfort 45 headphones are the perfect companion for music lovers and frequent travelers alike, offering world-class noise cancellation and immersive sound quality in a sleek and comfortable design.\n\nFeaturing advanced noise-canceling technology, the QuietComfort 45 headphones block out unwanted distractions so you can focus on your music, podcasts, or calls without interference from the outside world. Whether you're on a noisy plane, train, or bus, the QuietComfort 45 headphones ensure a peaceful listening experience wherever you go.\n\nIn addition to their exceptional noise-canceling capabilities, the QuietComfort 45 headphones deliver rich, balanced sound with deep bass and crystal-clear highs. Whether you're listening to your favorite music genres, watching movies, or making phone calls, every sound comes through with stunning clarity and detail.\n\nDesigned for all-day comfort, the QuietComfort 45 headphones feature plush ear cushions and a lightweight design that allows you to wear them for extended periods without discomfort. The adjustable headband ensures a secure and personalized fit, while the rotating earcups fold flat for easy storage and transport.\n\nThe QuietComfort 45 headphones also offer convenient features for everyday use, including intuitive touch controls for adjusting volume, skipping tracks, and taking calls. With up to 24 hours of battery life on a single charge, you can enjoy uninterrupted listening throughout the day.\n\nWhether you're commuting, working, or relaxing at home, the Bose QuietComfort 45 headphones deliver unmatched comfort, noise cancellation, and sound quality, making them the perfect companion for any situation."
+  },
+  {
+    "name": "Beats Studio3",
+    "image": "https://i.ibb.co/V2MNxst/61-Beh-Gy-Hz-HL-AC-UF894-1000-QL80.jpg",
+    "price": "349.99",
+    "brand": "Beats",
+    "rating": 4.6,
+    "type": "Over-Ear",
+    "category": "Electronics",
+    "description": "The Beats Studio3 Wireless Over-Ear Headphones deliver premium sound quality and all-day comfort for an immersive listening experience. With Pure Adaptive Noise Cancelling technology, the Studio3 headphones block out distractions and let you focus on your music with clarity and precision. Plus, with features like Fast Fuel and Apple W1 chip, the Studio3 headphones provide up to 22 hours of battery life and seamless integration with your Apple devices. Whether you're commuting, working out, or relaxing at home, the Studio3 headphones provide long-lasting comfort and immersive sound for all-day listening enjoyment. With its iconic design and bold colors, the Studio3 is the perfect choice for music lovers who demand both style and performance."
+  },
+  {
+    "name": "UGREEN USB-C to 3.5mm Headphone Jack Adapter",
+    "image": "https://i.ibb.co/NyGRgPD/eng-pl-UGREEN-CM231-USB-C-to-3-5mm-mini-jack-audio-adapter-gray-27574-1.webp",
+    "price": "9.99",
+    "brand": "UGREEN",
+    "rating": 4.5,
+    "type": "Adapter",
+    "category": "Electronics",
+    "description": "The UGREEN USB-C to 3.5mm Headphone Jack Adapter is a versatile accessory that allows you to connect your USB-C-enabled devices to standard 3.5mm audio devices, such as headphones, speakers, and car stereos. With its high-quality DAC chip and gold-plated connectors, the adapter delivers clear and stable audio transmission with minimal signal loss and interference. Plus, with its plug-and-play design, the adapter requires no additional drivers or software installation, making it easy to use right out of the box. Whether you're listening to music, watching videos, or making calls, the UGREEN USB-C to 3.5mm Headphone Jack Adapter provides a reliable and convenient way to connect your devices to your favorite audio accessories."
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "image": "https://i.ibb.co/Bs7T0RC/1-SP4067671-Hero-Square-feb46737e905436c814a0c92e1eeb860.jpg",
+    "price": "79.99",
+    "brand": "Instant Pot",
+    "rating": 4.8,
+    "type": "Pressure Cooker",
+    "category": "Home Appliances",
+    "description": "The Instant Pot Duo 7-in-1 Electric Pressure Cooker is a versatile kitchen appliance that combines seven functions in one convenient device. With its advanced microprocessor technology, the Duo pressure cooker cooks food up to 70% faster than traditional methods, saving you time and energy in the kitchen. Plus, with features like 14 one-touch cooking programs and a large LCD display, the Duo pressure cooker makes it easy to cook a variety of dishes with precision and ease. Whether you're cooking soups, stews, rice, or yogurt, the Instant Pot Duo pressure cooker delivers delicious results every time. With its stainless steel construction and safety features, including overheat protection and safety lock, the Duo pressure cooker is a reliable and durable addition to any kitchen."
+  },
+  {
+    "name": "Ninja Foodi 8-Quart 9-in-1 Deluxe XL Pressure Cooker",
+    "image": "https://i.ibb.co/y4ZPwnm/6357663-rd.jpg",
+    "price": "249.99",
+    "brand": "Ninja",
+    "rating": 4.7,
+    "type": "Pressure Cooker",
+    "category": "Home Appliances",
+    "description": "The Ninja Foodi 8-Quart 9-in-1 Deluxe XL Pressure Cooker is a powerful and versatile kitchen appliance that allows you to cook a wide variety of dishes with ease. With its XL capacity and nine functions, including pressure cooking, air frying, and steaming, the Foodi Deluxe XL pressure cooker offers endless possibilities for mealtime creativity. Plus, with features like TenderCrisp Technology and a reversible rack, the Foodi Deluxe XL pressure cooker ensures tender, juicy results with crispy, golden finishes every time. Whether you're cooking for a crowd or meal prepping for the week, the Ninja Foodi Deluxe XL pressure cooker delivers delicious, nutritious meals with minimal effort. With its sleek design and intuitive controls, the Foodi Deluxe XL pressure cooker is a must-have appliance for busy households."
+  },
+  {
+    "name": "Keurig K-Elite Single Serve Coffee Maker",
+    "image": "https://i.ibb.co/B64hvCV/11-5e70ec1f-2559-4139-b08c-e977a205d620.jpg",
+    "price": "129.99",
+    "brand": "Keurig",
+    "rating": 4.6,
+    "type": "Coffee Maker",
+    "category": "Home Appliances",
+    "description": "The Keurig K-Elite Single Serve Coffee Maker is a premium coffee machine that allows you to enjoy your favorite beverages with ease. With its large water reservoir and customizable brew sizes, the K-Elite coffee maker lets you brew coffee, tea, hot cocoa, and more in minutes, without the hassle of measuring or cleanup. Plus, with features like Strong Brew and Iced setting, you can tailor each cup to your exact preferences, whether you prefer bold, full-bodied coffee or refreshing iced beverages. Whether you're starting your day with a hot cup of coffee or winding down with a soothing cup of tea, the Keurig K-Elite Single Serve Coffee Maker delivers delicious, barista-quality beverages at the touch of a button."
+  },
+  {
+    "name": "iRobot Roomba 960 Robot Vacuum",
+    "image": "https://i.ibb.co/y4ZvZ2K/image-a-HR0c-HM6-Ly9t-Lm1l-ZGlh-LWFt-YXpvbi5jb20va-W1h-Z2-Vz-L0kv-Nz-FOM0o5-Uzhaa0wu-X0-FDX1-NMMTUw.jpg",
+    "price": "499.99",
+    "brand": "iRobot",
+    "rating": 4.8,
+    "type": "Robot Vacuum",
+    "category": "Home Appliances",
+    "description": "The iRobot Roomba 960 Robot Vacuum is a high-performance cleaning solution that takes the hassle out of household chores. With its advanced navigation and mapping technology, the Roomba 960 intelligently navigates your home, cleaning dirt, dust, and debris from hard floors and carpets with precision and efficiency. Plus, with features like Dirt Detect and AeroForce Cleaning System, the Roomba 960 ensures thorough cleaning of your home, targeting high-traffic areas and pet hair with ease. Whether you're at home or on the go, the Roomba 960 can be controlled and scheduled using the iRobot HOME app, so you can enjoy a clean home without lifting a finger. With its sleek design and powerful performance, the Roomba 960 is the perfect cleaning companion for busy households."
+  },
+  {
+    "name": "Vitamix E310 Explorian Blender",
+    "image": "https://i.ibb.co/G3mrwy7/IG-06-11-E310-Black-Sorbet.jpg",
+    "price": "349.99",
+    "brand": "Vitamix",
+    "rating": 4.7,
+    "type": "Blender",
+    "category": "Home Appliances",
+    "description": "The Vitamix E310 Explorian Blender is a powerful and versatile kitchen appliance that allows you to create a wide variety of delicious recipes with ease. With its powerful motor and hardened stainless steel blades, the E310 blender pulverizes ingredients, turning fruits, vegetables, and nuts into smooth, creamy textures for soups, smoothies, sauces, and more. Plus, with its variable speed control and pulse feature, you can achieve precise textures and consistencies every time, from chunky salsas to silky purees. Whether you're blending frozen drinks, making homemade nut butter, or crushing ice, the Vitamix E310 Explorian Blender delivers professional-quality results with minimal effort. With its durable construction and sleek design, the E310 blender is a stylish and reliable addition to any kitchen."
+  },
+  {
+    "name": "Cuisinart GR-4N 5-in-1 Griddler",
+    "image": "https://i.ibb.co/6ts13ZY/gr4n1-lifestyle-burger.jpg",
+    "price": "99.99",
+    "brand": "Cuisinart",
+    "rating": 4.6,
+    "type": "Grill",
+    "category": "Home Appliances",
+    "description": "The Cuisinart GR-4N 5-in-1 Griddler is a versatile countertop appliance that allows you to grill, griddle, and press delicious meals with ease. With its reversible nonstick plates and adjustable temperature controls, the Griddler offers five cooking options in one convenient device, including contact grill, panini press, full grill, full griddle, and half grill/half griddle. Whether you're cooking burgers, sandwiches, pancakes, or grilled vegetables, the Griddler ensures even heating and consistent results every time. Plus, with its dishwasher-safe plates and compact design, the Griddler is easy to clean and store, making it perfect for small kitchens and busy households. With its durable construction and versatile functionality, the Cuisinart Griddler is the perfect solution for all your indoor grilling needs."
+  },
+  {
+    "name": "Hamilton Beach FlexBrew Coffee Maker",
+    "image": "https://i.ibb.co/12K5RNs/49983-25.jpg",
+    "price": "99.99",
+    "brand": "Hamilton Beach",
+    "rating": 4.5,
+    "type": "Coffee Maker",
+    "category": "Home Appliances",
+    "description": "The Hamilton Beach FlexBrew Coffee Maker is a versatile brewing solution that allows you to enjoy your favorite coffee just the way you like it. With its dual brewing options, the FlexBrew coffee maker lets you brew a single cup or a full pot of coffee using either ground coffee or K-Cup pods, so you can customize your brew to suit your preferences. Plus, with features like programmable settings and adjustable brew strength, you can tailor each cup to your exact taste, whether you prefer bold, rich coffee or milder flavors. Whether you're brewing a quick cup for yourself or a full pot for guests, the Hamilton Beach FlexBrew Coffee Maker delivers delicious, barista-quality coffee with ease."
+  },
+  {
+    "name": "Breville BOV800XL Smart Oven",
+    "image": "https://i.ibb.co/SP7Sxqh/9225518cv14d.jpg",
+    "price": "249.99",
+    "brand": "Breville",
+    "rating": 4.7,
+    "type": "Toaster Oven",
+    "category": "Home Appliances",
+    "description": "The Breville BOV800XL Smart Oven is a versatile countertop appliance that combines the functionality of a toaster oven and a convection oven in one convenient device. With its Element IQ technology and nine pre-set cooking functions, the Smart Oven delivers precise heat distribution and optimal cooking performance for a variety of dishes, from toast and bagels to pizzas and roasts. Plus, with features like adjustable temperature and time settings, the Smart Oven allows you to customize each cooking session to your exact preferences, ensuring perfect results every time. Whether you're baking, broiling, or reheating leftovers, the Breville Smart Oven offers superior versatility and performance for all your cooking needs."
+  },
+  {
+    "name": "KitchenAid Artisan Stand Mixer",
+    "image": "https://i.ibb.co/wNWMPJT/hero-masthead-desktop.jpg",
+    "price": "399.99",
+    "brand": "KitchenAid",
+    "rating": 4.9,
+    "type": "Stand Mixer",
+    "category": "Home Appliances",
+    "description": "The KitchenAid Artisan Stand Mixer is a versatile and powerful kitchen appliance that takes the hassle out of baking and cooking. With its iconic design and durable construction, the Artisan Stand Mixer is built to last, providing reliable performance for all your culinary adventures. Whether you're mixing, kneading, or whipping, the Artisan Stand Mixer offers 10 speeds and a variety of attachments to tackle any recipe with ease. Plus, with features like a tilt-head design and planetary mixing action, the Artisan Stand Mixer ensures thorough and consistent mixing every time. Whether you're baking bread, making pasta, or whipping cream, the KitchenAid Artisan Stand Mixer is the perfect companion for all your kitchen endeavors."
+  },
+  {
+    "name": "Dyson V11 Torque Drive Cordless Vacuum",
+    "image": "https://i.ibb.co/BGS78n5/4db800f3-ca61-4beb-ae53-22b3ca4a7113-height-630-v-2-width-1200.jpg",
+    "price": "699.99",
+    "brand": "Dyson",
+    "rating": 4.8,
+    "type": "Cordless Vacuum",
+    "category": "Home Appliances",
+    "description": "The Dyson V11 Torque Drive Cordless Vacuum is a powerful and intelligent cleaning solution that delivers unrivaled performance on all floor types. With its Dynamic Load Sensor technology and high-torque cleaner head, the V11 vacuum automatically adjusts suction power to optimize cleaning performance, ensuring deep cleaning of carpets and hard floors alike. Plus, with features like a whole-machine filtration system and advanced LCD display, the V11 vacuum offers a hassle-free cleaning experience with real-time performance feedback and maintenance alerts. Whether you're tackling pet hair, dust, or debris, the Dyson V11 Torque Drive Cordless Vacuum provides powerful suction and long-lasting battery life for effortless cleaning throughout your home."
+  },
+  {
+    "name": "Slim Fit Dress Shirt",
+    "image": "https://i.ibb.co/Sc9dH0D/buttonupshirts-2048px-DSCF0679-nocap.jpg",
+    "price": "29.99",
+    "brand": "Tailor & Co.",
+    "rating": 4.7,
+    "type": "Shirt",
+    "category": "Clothing & Apparel",
+    "description": "The Tailor & Co. Slim Fit Dress Shirt combines classic style with modern comfort. Made from high-quality cotton blend fabric, it offers a sleek and tailored silhouette that's perfect for formal occasions or professional settings. With its wrinkle-resistant finish and stretch fabric, this dress shirt ensures all-day comfort and a sharp appearance."
+  },
+  {
+    "name": "Classic Denim Jeans",
+    "image": "https://i.ibb.co/1fP01Mr/6214.jpg",
+    "price": "39.99",
+    "brand": "Denimworks",
+    "rating": 4.6,
+    "type": "Jeans",
+    "category": "Clothing & Apparel",
+    "description": "The Denimworks Classic Denim Jeans are a timeless wardrobe staple. Crafted from premium denim fabric, these jeans offer durability and comfort for everyday wear. With their classic five-pocket styling and straight-leg fit, they provide a versatile and flattering look that pairs well with any casual outfit."
+  },
+  {
+    "name": "Crew Neck T-Shirt",
+    "image": "https://i.ibb.co/SyPWbF3/fear-of-god-essentials-Seal-Spring-Tab-Crew-Neck-T-shirt.jpg",
+    "price": "14.99",
+    "brand": "Essentials",
+    "rating": 4.5,
+    "type": "T-Shirt",
+    "category": "Clothing & Apparel",
+    "description": "The Essentials Crew Neck T-Shirt is a must-have basic for any wardrobe. Made from soft and breathable cotton fabric, it offers all-day comfort and versatility. With its classic crew neckline and relaxed fit, this t-shirt is perfect for layering or wearing on its own for a casual, everyday look."
+  },
+  {
+    "name": "Slim Fit Chino Pants",
+    "image": "https://i.ibb.co/c85vWZz/e773448-NK-URFS0364-2.jpg",
+    "price": "34.99",
+    "brand": "Urban Gent",
+    "rating": 4.8,
+    "type": "Pants",
+    "category": "Clothing & Apparel",
+    "description": "The Urban Gent Slim Fit Chino Pants offer a modern take on a classic wardrobe staple. Made from lightweight cotton twill fabric, these pants feature a slim fit and tapered leg for a sleek and stylish look. With their versatile design and comfortable stretch fabric, they're perfect for work, weekends, or nights out."
+  },
+  {
+    "name": "Classic Polo Shirt",
+    "image": "https://i.ibb.co/hBkYpVC/505777-1046992.webp",
+    "price": "24.99",
+    "brand": "CasualComfort",
+    "rating": 4.5,
+    "type": "Shirt",
+    "category": "Clothing & Apparel",
+    "description": "The CasualComfort Classic Polo Shirt is a timeless wardrobe staple that offers comfort and style. Made from soft and breathable cotton fabric, it features a classic polo collar and three-button placket for a polished look. With its versatile design and relaxed fit, this polo shirt is perfect for casual weekends, golf outings, or summer picnics."
+  },
+  {
+    "name": "Slim Fit Blazer",
+    "image": "https://i.ibb.co/nw4Ngz3/0062077ws-170-a.jpg",
+    "price": "79.99",
+    "brand": "Tailor & Co.",
+    "rating": 4.8,
+    "type": "Blazer",
+    "category": "Clothing & Apparel",
+    "description": "The Tailor & Co. Slim Fit Blazer is a versatile and stylish addition to any wardrobe. Made from premium suiting fabric, it offers a tailored silhouette and sleek design that's perfect for formal or semi-formal occasions. With its classic notch lapel and single-breasted closure, this blazer pairs well with dress pants for a polished look or jeans for a more casual vibe."
+  },
+  {
+    "name": "Jamdani Saree",
+    "image": "https://i.ibb.co/Xz0B1C5/jamdani-cotton-silk-saree-in-navy-blue-v1-sbea2753.jpg",
+    "price": "120",
+    "brand": "Deshi Weaves",
+    "rating": 4.7,
+    "type": "Saree",
+    "category": "Clothing & Apparel",
+    "description": "The Deshi Weaves Jamdani Saree is a timeless piece of Bangladeshi craftsmanship. Handwoven with intricate floral motifs and fine cotton or silk threads, it embodies the rich cultural heritage of Bangladesh. Perfect for weddings, festivals, or special occasions, this saree is a symbol of elegance and tradition."
+  },
+  {
+    "name": "Shalwar Kameez",
+    "image": "https://i.ibb.co/XZLb98D/b22a48e73fb7bf8e224c7ced8ac63a8a.jpg",
+    "price": "90",
+    "brand": "Deshi Couture",
+    "rating": 4.6,
+    "type": "Salwar Kameez",
+    "category": "Clothing & Apparel",
+    "description": "The Deshi Couture Shalwar Kameez is a classic ensemble that exudes grace and sophistication. Made from luxurious fabrics like silk or chiffon, it features intricate embroidery and embellishments that showcase the artistry of Bangladeshi craftsmanship. Whether worn casually or for formal events, this traditional outfit is sure to make a statement."
+  },
+  {
+    "name": "Tangail Sari",
+    "image": "https://i.ibb.co/T03jLPJ/d30a2557527e41e3e2848048093b2ad8-jpg-750x400-jpg.webp",
+    "price": "110",
+    "brand": "Tangail Heritage",
+    "rating": 4.7,
+    "type": "Saree",
+    "category": "Clothing & Apparel",
+    "description": "The Tangail Heritage Tangail Sari is a symbol of the rich textile traditions of Bangladesh. Handwoven with delicate motifs and intricate borders, it showcases the craftsmanship of skilled artisans. Whether worn casually or for formal events, this saree exudes elegance and grace."
+  },
+  {
+    "name": "Pashmina Shawl",
+    "image": "https://i.ibb.co/r6GS6dL/palace-of-peacocks-black-pashmina-shawl3-1.jpg",
+    "price": "45",
+    "brand": "Pashmina Palace",
+    "rating": 4.5,
+    "type": "Shawl",
+    "category": "Clothing & Apparel",
+    "description": "The Pashmina Palace Pashmina Shawl is a luxurious accessory that adds elegance to any outfit. Made from fine pashmina wool, it is soft, warm, and lightweight, making it ideal for layering in cooler weather. Whether draped over the shoulders or wrapped around the neck, this shawl adds a touch of sophistication to any ensemble."
+  },
+  {
+    "name": "Dhakai Jamdani Saree",
+    "image": "https://i.ibb.co/MSF0zZD/adi447-5503.jpg",
+    "price": "130",
+    "brand": "Jamdani Heritage",
+    "rating": 4.8,
+    "type": "Saree",
+    "category": "Clothing & Apparel",
+    "description": "The Jamdani Heritage Dhakai Jamdani Saree is a masterpiece of Bengali craftsmanship. Handloomed with intricate designs and motifs, it is a symbol of tradition and heritage. Whether worn for weddings, festivals, or special occasions, this saree is sure to turn heads and make a statement."
+  },
+  {
+    "name": "Batik Print Kurti",
+    "image": "https://i.ibb.co/nw9DMXq/MG-9100-long-webp.webp",
+    "price": "55",
+    "brand": "Batik Express",
+    "rating": 4.5,
+    "type": "Kurti",
+    "category": "Clothing & Apparel",
+    "description": "The Batik Express Batik Print Kurti is a stylish and trendy addition to any wardrobe. Made from lightweight and breathable fabric, it features vibrant batik prints and modern designs that are perfect for casual wear. Whether paired with jeans, leggings, or trousers, this kurti adds a pop of color and personality to your look."
+  },
+  {
+    "name": "Classic Sneakers",
+    "image": "https://i.ibb.co/4JN1h0s/f6f54c2380fc3f32e437164fccd0191f.jpg",
+    "price": "59.99",
+    "brand": "Urban Footwear",
+    "rating": 4.7,
+    "type": "Sneakers",
+    "category": "Clothing & Apparel",
+    "description": "The Urban Footwear Classic Sneakers are a timeless addition to any wardrobe. Made from durable canvas and featuring a cushioned insole, they provide comfort and style for everyday wear. With their versatile design and neutral color, these sneakers pair well with jeans, shorts, or casual dresses, making them a wardrobe staple for any season."
+  },
+  {
+    "name": "Running Shoes",
+    "image": "https://i.ibb.co/cXytpw0/41j-x2f6v-XL-AC-SY780.jpg",
+    "price": "79.99",
+    "brand": "Active Gear",
+    "rating": 4.6,
+    "type": "Running Shoes",
+    "category": "Clothing & Apparel",
+    "description": "The Active Gear Running Shoes are designed for maximum performance and comfort. Featuring a lightweight and breathable mesh upper, they provide ventilation and support during intense workouts or daily runs. With their responsive cushioning and durable rubber outsole, these shoes deliver traction and stability on any surface, making them a must-have for fitness enthusiasts."
+  },
+  {
+    "name": "Ankle Boots",
+    "image": "https://i.ibb.co/vkhYS3H/Boho-Chic-Style-Lace-up-Boots-Lady-Leather-Chunky-Heel-Boots.webp",
+    "price": "89.99",
+    "brand": "Chic Style",
+    "rating": 4.5,
+    "type": "Boots",
+    "category": "Clothing & Apparel",
+    "description": "The Chic Style Ankle Boots are a stylish and versatile choice for any occasion. Made from faux leather with a stacked heel, they add a touch of sophistication to any outfit. With their zip closure and cushioned footbed, these boots offer comfort and ease of wear. Whether paired with jeans, skirts, or dresses, they elevate your look with effortless chic."
+  },
+  {
+    "name": "Platform Sandals",
+    "image": "https://i.ibb.co/T0GRXjx/Sorel-Womens-VIIBE-Sandal-25cc09f59a354fc689153b0401098755.jpg",
+    "price": "69.99",
+    "brand": "Trendy Steps",
+    "rating": 4.8,
+    "type": "Sandals",
+    "category": "Clothing & Apparel",
+    "description": "The Trendy Steps Platform Sandals are a must-have for summer style. Featuring a chunky platform sole and adjustable ankle strap, they provide stability and support with a touch of retro flair. With their vegan leather straps and cushioned footbed, these sandals offer comfort and style for all-day wear. Pair them with sundresses, shorts, or cropped jeans for a chic and trendy look."
+  },
+  {
+    "name": "High Heels",
+    "image": "https://i.ibb.co/0ZX7bbS/3e4fd6077375ebc1d3e49598715b7762-jpg-750x750-jpg.webp",
+    "price": "79.99",
+    "brand": "Elegant Steps",
+    "rating": 4.7,
+    "type": "Heels",
+    "category": "Clothing & Apparel",
+    "description": "The Elegant Steps High Heels are the perfect finishing touch to any outfit. Featuring a sleek stiletto heel and pointed toe, they elongate the legs and add a touch of sophistication to your look. With their padded insole and slip-resistant sole, these heels offer comfort and stability for all-day wear. Whether paired with cocktail dresses, skirts, or trousers, they elevate your style with effortless elegance."
+  },
+  {
+    "name": "Slip-On Loafers",
+    "image": "https://i.ibb.co/mGnGj6T/41-Ax-95-X9-RL-SL500-AC-SL500.jpg",
+    "price": "49.99",
+    "brand": "Casual Comfort",
+    "rating": 4.6,
+    "type": "Loafers",
+    "category": "Clothing & Apparel",
+    "description": "The Casual Comfort Slip-On Loafers are the epitome of laid-back style. Made from soft faux leather with a cushioned footbed, they offer comfort and versatility for everyday wear. With their slip-on design and elastic side panels, these loafers provide ease of wear and a secure fit. Pair them with jeans, chinos, or skirts for a relaxed yet polished look."
+  },
+  {
+    "name": "Canvas Slip-Ons",
+    "image": "https://i.ibb.co/1zmzjFd/Latest-Comfortable-Slip-on-Men-Canvas-Shoes-Fashion-Men-Casual-Shoes.webp",
+    "price": "39.99",
+    "brand": "Casual Comfort",
+    "rating": 4.5,
+    "type": "Slip-Ons",
+    "category": "Clothing & Apparel",
+    "description": "The Casual Comfort Canvas Slip-Ons are perfect for casual outings and everyday wear. Made from lightweight canvas with a cushioned insole, they offer comfort and style in equal measure. With their slip-on design and elastic side panels, these shoes provide a snug and secure fit. Pair them with jeans, shorts, or dresses for a laid-back and effortless look."
+  },
+  {
+    "name": "Classic Leather Belt",
+    "image": "https://i.ibb.co/bvm7Y8W/1-e4abf5aa-d6d5-47ce-be5e-d30a9799946e.jpg",
+    "price": "29.99",
+    "brand": "Timeless Style",
+    "rating": 4.6,
+    "type": "Belt",
+    "category": "Clothing & Apparel",
+    "description": "The Timeless Style Classic Leather Belt is a wardrobe essential for both men and women. Made from genuine leather with a classic buckle closure, it adds a touch of sophistication to any outfit. With its versatile design and neutral color, this belt pairs well with jeans, trousers, or dresses, making it a versatile accessory for any occasion."
+  },
+  {
+    "name": "Stainless Steel Watch",
+    "image": "https://i.ibb.co/S0tFDDq/Untitled-design-22.png",
+    "price": "99.99",
+    "brand": "Elegant Timepieces",
+    "rating": 4.8,
+    "type": "Watch",
+    "category": "Clothing & Apparel",
+    "description": "The Elegant Timepieces Stainless Steel Watch is a timeless accessory that combines style and functionality. Featuring a sleek stainless steel band and a classic analog dial, it adds a touch of sophistication to any ensemble. With its water-resistant design and quartz movement, this watch offers reliability and durability for everyday wear."
+  },
+  {
+    "name": "Fashion Sunglasses",
+    "image": "https://i.ibb.co/K2jQzg8/il-570x-N-2375853348-1184.jpg",
+    "price": "39.99",
+    "brand": "Trendy Shades",
+    "rating": 4.7,
+    "type": "Sunglasses",
+    "category": "Clothing & Apparel",
+    "description": "The Trendy Shades Fashion Sunglasses are the perfect accessory to complete your summer look. Featuring stylish frames and UV-protected lenses, they offer both style and protection from the sun's rays. With their lightweight design and comfortable fit, these sunglasses are ideal for outdoor activities, beach days, or simply adding a chic touch to your outfit."
+  },
+  {
+    "name": "Leather Wallet",
+    "image": "https://i.ibb.co/JkLgj60/6453a995a7d7091b2641c468-men-leather-wallets-brand-luxury-short.jpg",
+    "price": "49.99",
+    "brand": "Luxury Leather Goods",
+    "rating": 4.5,
+    "type": "Wallet",
+    "category": "Clothing & Apparel",
+    "description": "The Luxury Leather Goods Leather Wallet is a sophisticated accessory for storing your essentials in style. Crafted from premium leather with multiple card slots and compartments, it offers ample storage for cards, cash, and receipts. With its sleek design and timeless appeal, this wallet is a must-have for both men and women."
+  },
+  {
+    "name": "Canvas Backpack",
+    "image": "https://i.ibb.co/LkctJht/k1-1024x768.webp",
+    "price": "59.99",
+    "brand": "Urban Traveler",
+    "rating": 4.6,
+    "type": "Backpack",
+    "category": "Clothing & Apparel",
+    "description": "The Urban Traveler Canvas Backpack is a versatile and stylish accessory for everyday use. Made from durable canvas with adjustable straps and multiple pockets, it offers convenience and functionality for commuting, traveling, or daily errands. With its spacious interior and modern design, this backpack combines practicality with fashion-forward style."
+  },
+  {
+    "name": "Leather Keychain",
+    "image": "https://i.ibb.co/pQJvqLS/20200509-165253.jpg",
+    "price": "14.99",
+    "brand": "Timeless Accessories",
+    "rating": 4.5,
+    "type": "Keychain",
+    "category": "Clothing & Apparel",
+    "description": "The Timeless Accessories Leather Keychain is a stylish and practical accessory for keeping your keys organized. Made from genuine leather with a secure keyring attachment, it adds a touch of sophistication to your everyday carry. With its durable construction and timeless design, this keychain is both functional and fashionable."
+  },
+  {
+    "name": "Classic Black Suit",
+    "image": "https://i.ibb.co/F41yRJn/51j-N35-Ib-W7-L-AC-UY1000-Dp-Weblab.jpg",
+    "price": "199.99",
+    "brand": "Elegant Attire",
+    "rating": 4.7,
+    "type": "Suit",
+    "category": "Clothing & Apparel",
+    "description": "The Elegant Attire Classic Black Suit is a timeless choice for formal occasions. Tailored to perfection with premium wool fabric, it exudes sophistication and elegance. With its classic silhouette and impeccable fit, this suit is suitable for weddings, business meetings, or any special event where you want to make a lasting impression."
+  },
+  {
+    "name": "Formal White Shirt",
+    "image": "https://i.ibb.co/PYbdvNm/white-formal-shirt-for-men-with-classic-collar-18826.jpg",
+    "price": "49.99",
+    "brand": "Classic Elegance",
+    "rating": 4.6,
+    "type": "Shirt",
+    "category": "Clothing & Apparel",
+    "description": "The Classic Elegance Formal White Shirt is a wardrobe staple for every gentleman. Made from high-quality cotton with a crisp and clean finish, it offers comfort and style for formal occasions. With its classic collar and tailored fit, this shirt pairs well with suits, trousers, or dress pants, making it a versatile addition to your formalwear collection."
+  },
+  {
+    "name": "Tailored Tuxedo",
+    "image": "https://i.ibb.co/qpZb3qZ/1682736567630-e-2147483647-v-beta-t-r1gz-XBo-Cf2-0j-g-MIrcd-Bkeo-WVj-Qmd-Tcn-Ektkb9-Mj3c.png",
+    "price": "299.99",
+    "brand": "Luxury Tailoring",
+    "rating": 4.8,
+    "type": "Tuxedo",
+    "category": "Clothing & Apparel",
+    "description": "The Luxury Tailoring Tailored Tuxedo is the epitome of formal elegance. Crafted from premium wool with satin lapels and trim, it exudes luxury and sophistication. With its slim fit and modern design, this tuxedo is perfect for black-tie events, gala dinners, or weddings where you want to make a statement."
+  },
+  {
+    "name": "Pleated Dress Pants",
+    "image": "https://i.ibb.co/ZXbQC5Q/main-qimg-c2d4003881d1a7ad3f71ece7faa75722-lq.jpg",
+    "price": "79.99",
+    "brand": "Modern Style",
+    "rating": 4.5,
+    "type": "Pants",
+    "category": "Clothing & Apparel",
+    "description": "The Modern Style Pleated Dress Pants are a versatile addition to any formal wardrobe. Made from high-quality fabric with a classic pleated front, they offer both style and comfort for formal occasions. With their tailored fit and timeless design, these pants pair well with dress shirts, blazers, or suits, making them a must-have for any gentleman."
+  },
+  {
+    "name": "Formal Vest",
+    "image": "https://i.ibb.co/f1ch3ZM/8f5bd34ea7cb9c44b3f8e2d4cc16f685.jpg",
+    "price": "59.99",
+    "brand": "Classic Elegance",
+    "rating": 4.7,
+    "type": "Vest",
+    "category": "Clothing & Apparel",
+    "description": "The Classic Elegance Formal Vest is a sophisticated layering piece for formal ensembles. Made from premium fabric with a tailored fit, it adds a touch of refinement to any outfit. With its classic design and adjustable back strap, this vest pairs well with suits, tuxedos, or dress shirts, making it a versatile accessory for formal events."
+  },
+  {
+    "name": "Formal Necktie",
+    "image": "https://i.ibb.co/h2Pbj5P/be4461ce-6588-4925-ba7b-9b141e053294-b4b45e9700bccefaa683607322035750.jpg",
+    "price": "29.99",
+    "brand": "Classic Elegance",
+    "rating": 4.8,
+    "type": "Necktie",
+    "category": "Clothing & Apparel",
+    "description": "The Classic Elegance Formal Necktie is a classic accessory for adding a touch of sophistication to any formal outfit. Made from high-quality silk with a timeless design, it complements suits, tuxedos, or dress shirts with ease. With its versatile length and width, this necktie ties effortlessly into a perfect knot, making it a staple in any gentleman's wardrobe."
+  },
+  {
+    "name": "Organic Avocado",
+    "image": "https://i.ibb.co/Dk0Pd6W/51-QEFmnh-ZRL.jpg",
+    "price": "1.99",
+    "brand": "Organic Farms",
+    "rating": 4.8,
+    "type": "Produce",
+    "category": "Groceries",
+    "description": "Organic avocados are known for their creamy texture and rich flavor. Packed with healthy fats and essential nutrients, they are perfect for making guacamole, adding to salads, or topping toast for a nutritious and delicious meal."
+  },
+  {
+    "name": "Wild-Caught Alaskan Salmon",
+    "image": "https://i.ibb.co/gggBy0x/Northstar-Wild-Caught-Alaskan-Salmon-Filet-1600x.jpg",
+    "price": "12.99/lb",
+    "brand": "Alaska Seafood Co.",
+    "rating": 4.9,
+    "type": "Seafood",
+    "category": "Groceries",
+    "description": "Wild-caught Alaskan salmon is prized for its firm texture and rich, flavorful taste. High in omega-3 fatty acids and protein, it's a healthy choice for grilling, baking, or broiling. Serve with your favorite sides for a delicious and nutritious meal."
+  },
+  {
+    "name": "Organic Strawberries",
+    "image": "https://i.ibb.co/xj6h1WQ/t-C9g-YMFDah-S9-AYw-JAKft5a-CBk8rt-YM-KPfdt-Ht6mm5m-Oznf-ICFANs-TC5v-Vqmb-QMx3w-B6-MO62kha-T3p31-M2.jpg",
+    "price": "3.99/lb",
+    "brand": "Organic Farms",
+    "rating": 4.7,
+    "type": "Produce",
+    "category": "Groceries",
+    "description": "Organic strawberries are sweet, juicy, and bursting with flavor. Rich in antioxidants and vitamin C, they are a nutritious snack on their own or can be added to smoothies, salads, or desserts for a delicious and refreshing treat."
+  },
+  {
+    "name": "Artisanal Whole Grain Bread",
+    "image": "https://i.ibb.co/kMqvmV6/Multi-Grain-Artisan-Bread-in-5-Minutes-crop-feat-im.jpg",
+    "price": "4.49",
+    "brand": "Baker's Best",
+    "rating": 4.6,
+    "type": "Bakery",
+    "category": "Groceries",
+    "description": "Artisanal whole grain bread is made with high-quality ingredients and traditional baking methods for a delicious and nutritious loaf. With its hearty texture and nutty flavor, it's perfect for sandwiches, toast, or enjoying on its own with a pat of butter."
+  },
+  {
+    "name": "Organic Baby Spinach",
+    "image": "https://i.ibb.co/2YKVGsz/Organic-Clamshells-Montages-Aquarelle-Spinach-ALL-2-scaled.jpg",
+    "price": "2.99",
+    "brand": "Organic Farms",
+    "rating": 4.6,
+    "type": "Produce",
+    "category": "Groceries",
+    "description": "Organic baby spinach is tender, flavorful, and packed with nutrients. Versatile and easy to use, it's perfect for salads, sandwiches, stir-fries, or adding to smoothies for a boost of green goodness."
+  },
+  {
+    "name": "Fair Trade Coffee Beans",
+    "image": "https://i.ibb.co/k8pVmHC/What-is-fairtrade-b.jpg",
+    "price": "9.99/lb",
+    "brand": "Fair Grounds",
+    "rating": 4.8,
+    "type": "Beverages",
+    "category": "Groceries",
+    "description": "Fair trade coffee beans are sustainably sourced and ethically produced, ensuring that farmers receive fair wages for their work. These high-quality coffee beans are roasted to perfection, offering a rich and flavorful brew that's perfect for your morning cup of coffee."
+  },
+  {
+    "name": "Organic Quinoa",
+    "image": "https://i.ibb.co/5WZ5BS3/quinoa-1-600x.jpg",
+    "price": "5.99/lb",
+    "brand": "Organic Farms",
+    "rating": 4.5,
+    "type": "Grains",
+    "category": "Groceries",
+    "description": "Organic quinoa is a versatile and nutritious grain that's perfect for salads, soups, stir-fries, or as a side dish. Packed with protein, fiber, and essential amino acids, it's a healthy and delicious choice for any meal."
+  },
+  {
+    "name": "Organic Extra Virgin Olive Oil",
+    "image": "https://i.ibb.co/zNBC6tY/bertolli-3-32-20-no-5.png",
+    "price": "9.99",
+    "brand": "Organic Farms",
+    "rating": 4.8,
+    "type": "Pantry",
+    "category": "Groceries",
+    "description": "Organic extra virgin olive oil is cold-pressed from the finest organic olives, resulting in a rich, flavorful oil that's perfect for cooking, dipping, or drizzling. Packed with heart-healthy fats and antioxidants, it's a kitchen essential for any home cook."
+  },
+  {
+    "name": "Oral-B Pro 1000 Electric Toothbrush",
+    "image": "https://i.ibb.co/KL1sncP/71l-Gilmndb-L-AC-UF1000-1000-QL80-Dp-Weblab.jpg",
+    "price": "49.99",
+    "brand": "Oral-B",
+    "rating": 4.7,
+    "type": "Electric Toothbrush",
+    "category": "Health",
+    "description": "The Oral-B Pro 1000 Electric Toothbrush is a powerful and effective tool for maintaining optimal oral health. With its oscillating, rotating, and pulsating brush head, the Pro 1000 removes up to 300% more plaque along the gumline compared to manual brushing, ensuring a thorough clean with every use. Plus, with features like a built-in pressure sensor and a two-minute timer, the Pro 1000 helps you brush for the recommended time and alerts you if you're brushing too hard, promoting healthier brushing habits. Whether you're tackling plaque, tartar, or stains, the Oral-B Pro 1000 Electric Toothbrush delivers superior cleaning performance for a brighter, healthier smile."
+  },
+  {
+    "name": "CeraVe Hydrating Facial Cleanser",
+    "image": "https://i.ibb.co/1R60Bfw/Cera-Ve-Hydrating-Facial-Cleanser-Normal-To-Dry-Skin-87ml-8.webp",
+    "price": "12.99",
+    "brand": "CeraVe",
+    "rating": 4.8,
+    "type": "Facial Cleanser",
+    "category": "Health",
+    "description": "The CeraVe Hydrating Facial Cleanser is a gentle and effective cleanser that removes dirt, oil, and makeup without stripping the skin's natural moisture barrier. With its unique formula containing ceramides and hyaluronic acid, the Hydrating Cleanser replenishes and hydrates the skin, leaving it feeling clean, soft, and refreshed. Plus, with its non-comedogenic and fragrance-free formula, the Hydrating Cleanser is suitable for all skin types, including sensitive and acne-prone skin. Whether you're cleansing in the morning or removing makeup at night, the CeraVe Hydrating Facial Cleanser provides a gentle yet thorough cleansing experience for healthy, radiant-looking skin."
+  },
+  {
+    "name": "Neutrogena Hydro Boost Hyaluronic Acid Serum",
+    "image": "https://i.ibb.co/KwcXkTC/Neutrogena-Hydro-Boost-Hyaluronic-Acid-S-Neutrogena-05c13-386030.jpg",
+    "price": "16.99",
+    "brand": "Neutrogena",
+    "rating": 4.6,
+    "type": "Serum",
+    "category": "Health",
+    "description": "The Neutrogena Hydro Boost Hyaluronic Acid Serum is a lightweight and hydrating serum that replenishes and revitalizes dry, thirsty skin. With its concentrated formula containing hyaluronic acid and glycerin, the Hydro Boost Serum delivers intense hydration to the skin, locking in moisture and improving skin's suppleness and elasticity. Plus, with its oil-free and non-comedogenic formula, the Hydro Boost Serum is suitable for all skin types, including sensitive and oily skin. Whether you're combating dryness, dullness, or fine lines, the Neutrogena Hydro Boost Hyaluronic Acid Serum provides a boost of hydration for smooth, radiant-looking skin."
+  },
+  {
+    "name": "Revlon One-Step Hair Dryer & Volumizer",
+    "image": "https://i.ibb.co/LZNxM4Q/Revlon-Salon-One-Step-Hair-Dryer-Volumiser-Titanium.jpg",
+    "price": "59.99",
+    "brand": "Revlon",
+    "rating": 4.7,
+    "type": "Hair Dryer",
+    "category": "Health",
+    "description": "The Revlon One-Step Hair Dryer & Volumizer is a versatile styling tool that combines the power of a hair dryer with the precision of a styling brush, giving you smooth, salon-worthy results in one easy step. With its unique oval design and tufted bristles, the One-Step Dryer & Volumizer smooths and volumizes hair while reducing frizz and static, leaving hair shiny and manageable. Plus, with features like multiple heat settings and a cool shot button, the One-Step Dryer & Volumizer offers customizable styling options for all hair types and textures. Whether you're blow-drying, straightening, or adding volume, the Revlon One-Step Hair Dryer & Volumizer is the perfect tool for achieving sleek, professional-looking hairstyles at home."
+  },
+  {
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "image": "https://i.ibb.co/FYLxkP4/00075609194603-C1-R1-M-NA.png",
+    "price": "24.99",
+    "brand": "Olay",
+    "rating": 4.8,
+    "type": "Moisturizer",
+    "category": "Health",
+    "description": "The Olay Regenerist Micro-Sculpting Cream is a luxurious anti-aging moisturizer that hydrates, firms, and plumps the skin for a more youthful-looking complexion. With its advanced formula containing hyaluronic acid, amino-peptides, and vitamin B3, the Micro-Sculpting Cream deeply nourishes the skin, reducing the appearance of fine lines, wrinkles, and sagging over time. Plus, with its fast-absorbing and non-greasy texture, the Regenerist Cream leaves skin feeling soft, smooth, and radiant, without clogging pores or causing irritation. Whether you're looking to prevent signs of aging or improve skin's texture and tone, the Olay Regenerist Micro-Sculpting Cream delivers visible results for firmer, smoother, and more resilient skin."
+  },
+  {
+    "name": "Braun Series 7 Electric Shaver",
+    "image": "https://i.ibb.co/NS4ZLQg/Braun-Series-7-7071cc-Flex-Electric-Razor-for-Men-with-Smart-Care-Center-Precision-Trimmer-Wet-Dry-R.jpg",
+    "price": "149.99",
+    "brand": "Braun",
+    "rating": 4.7,
+    "type": "Electric Shaver",
+    "category": "Health",
+    "description": "The Braun Series 7 Electric Shaver is a premium grooming tool that delivers a close, comfortable shave with minimal irritation. With its innovative Sonic technology and flexible shaving elements, the Series 7 shaver captures more hair in fewer strokes, ensuring smooth and efficient shaving performance. Plus, with features like five shaving modes and an AutoSense motor, the Series 7 adapts to your beard density, providing optimal shaving power for a personalized shaving experience. Whether you have sensitive skin, coarse hair, or a busy schedule, the Braun Series 7 Electric Shaver offers a hassle-free shaving solution for a consistently smooth and refreshed look."
+  },
+  {
+    "name": "Mario Badescu Facial Spray with Aloe, Herbs, and Rosewater",
+    "image": "https://i.ibb.co/b6rM1cf/img-6942.jpg",
+    "price": "12.00",
+    "brand": "Mario Badescu",
+    "rating": 4.6,
+    "type": "Facial Spray",
+    "category": "Health",
+    "description": "The Mario Badescu Facial Spray with Aloe, Herbs, and Rosewater is a refreshing and hydrating mist that revives tired, dull skin and sets makeup for a dewy, radiant finish. With its botanical-infused formula containing aloe vera, gardenia, and rose extracts, the Facial Spray nourishes and soothes the skin, leaving it feeling refreshed and revitalized throughout the day. Plus, with its versatile application, the Facial Spray can be used as a toner, makeup setting spray, or mid-day pick-me-up, providing instant hydration and rejuvenation whenever you need it. Whether you're at home, at the gym, or on the go, the Mario Badescu Facial Spray is a skincare essential for maintaining healthy, glowing skin."
+  },
+  {
+    "name": "Maybelline New York Instant Age Rewind Eraser Concealer",
+    "image": "https://i.ibb.co/KWNkSDr/age-rewind-conceal-cover-1.jpg",
+    "price": "9.99",
+    "brand": "Maybelline New York",
+    "rating": 4.7,
+    "type": "Concealer",
+    "category": "Health",
+    "description": "The Maybelline New York Instant Age Rewind Eraser Concealer is a multi-tasking beauty must-have that conceals, highlights, and brightens the under-eye area for a refreshed and youthful appearance. With its innovative micro-corrector applicator and anti-aging formula containing goji berry and haloxyl, the Instant Age Rewind Concealer reduces the appearance of dark circles, fine lines, and puffiness, instantly brightening and revitalizing tired eyes. Plus, with its blendable and buildable coverage, the concealer seamlessly blends into the skin, providing natural-looking results that last all day. Whether you're combating signs of fatigue, uneven skin tone, or imperfections, the Maybelline Instant Age Rewind Eraser Concealer delivers flawless coverage and a radiant, luminous finish."
+  },
+  {
+    "name": "Rivet Revolve Modern Sofa",
+    "image": "https://i.ibb.co/Yh5s1Kz/df30fad1146414603ddc6a34ce8a0e11eb-pc-loveseats-lede-2x-rsocial-w600.jpg",
+    "price": "699.00",
+    "brand": "Rivet",
+    "rating": 4.7,
+    "type": "Sofa",
+    "category": "Furniture",
+    "description": "The Rivet Revolve Modern Sofa combines contemporary style with comfort, making it the perfect centerpiece for any living room. With its clean lines and tufted back cushions, the Revolve Sofa adds a touch of sophistication to any space, while its durable construction and plush cushions ensure lasting comfort and support. Plus, with its compact size and versatile design, the Revolve Sofa fits seamlessly into small apartments or large family rooms, making it ideal for urban dwellers and suburban homeowners alike. Whether you're lounging with friends, watching movies, or curling up with a book, the Rivet Revolve Modern Sofa offers comfort, style, and versatility for all your living room needs."
+  },
+  {
+    "name": "Stone & Beam Modern Round Wall Mirror",
+    "image": "https://i.ibb.co/z7c6KJt/51bx-ESn-HBBL-AC.jpg",
+    "price": "99.99",
+    "brand": "Stone & Beam",
+    "rating": 4.8,
+    "type": "Wall Mirror",
+    "category": "Furniture",
+    "description": "The Stone & Beam Modern Round Wall Mirror adds a touch of elegance and sophistication to any room, making it the perfect accent piece for your home decor. With its sleek metal frame and minimalist design, the Round Wall Mirror complements a variety of decorating styles, from modern and contemporary to industrial and rustic. Whether you hang it in the entryway, living room, bedroom, or bathroom, the Round Wall Mirror reflects light and space, creating a sense of openness and brightness in any space. Plus, with its durable construction and easy-to-hang design, the Stone & Beam Modern Round Wall Mirror is as functional as it is stylish, making it a must-have addition to your home."
+  },
+  {
+    "name": "Walker Edison Farmhouse TV Stand",
+    "image": "https://i.ibb.co/r2Gh7R7/W70-CS2-DDW.jpg",
+    "price": "249.00",
+    "brand": "Walker Edison",
+    "rating": 4.6,
+    "type": "TV Stand",
+    "category": "Furniture",
+    "description": "The Walker Edison Farmhouse TV Stand brings rustic charm and modern functionality to your living room or entertainment space. With its farmhouse-inspired design and barn door-style cabinets, the TV Stand adds a touch of country chic to any decor, while its spacious shelves and cable management system provide ample storage and organization for all your media accessories. Whether you're watching TV, gaming, or streaming movies, the Walker Edison Farmhouse TV Stand offers the perfect blend of style and functionality for your home entertainment needs."
+  },
+  {
+    "name": "AmazonBasics Classic Solid Wood Saddle-Seat Counter Stool",
+    "image": "https://i.ibb.co/TtjkZwf/81-EAMGg-Sax-L-AC-UF1000-1000-QL80.jpg",
+    "price": "59.99",
+    "brand": "AmazonBasics",
+    "rating": 4.7,
+    "type": "Counter Stool",
+    "category": "Furniture",
+    "description": "The AmazonBasics Classic Solid Wood Saddle-Seat Counter Stool offers classic style and comfort for your kitchen island, bar, or counter-height table. With its solid wood construction and timeless design, the Counter Stool adds warmth and character to any space, while its saddle-seat design and footrests provide comfort and support for extended sitting. Whether you're enjoying breakfast with family, hosting a dinner party, or working on projects at the counter, the AmazonBasics Counter Stool offers the perfect combination of style and functionality for your home."
+  },
+  {
+    "name": "Ashley Furniture Signature Design - Antigo Coffee Table",
+    "image": "https://i.ibb.co/dJ0RVdn/4ada4add980741c08ead0228f8b4938c.jpg",
+    "price": "189.99",
+    "brand": "Ashley Furniture",
+    "rating": 4.5,
+    "type": "Coffee Table",
+    "category": "Furniture",
+    "description": "The Ashley Furniture Signature Design - Antigo Coffee Table adds industrial chic style and versatility to your living room or den. With its metal frame and slate-tile tabletop, the Coffee Table offers a unique blend of rustic charm and modern design, while its spacious surface provides ample space for drinks, snacks, and decor. Whether you're entertaining guests, hosting game night, or simply relaxing with family, the Ashley Furniture Antigo Coffee Table offers the perfect combination of style and functionality for your home."
+  },
+  {
+    "name": "Zinus Shawn SmartBase Mattress Foundation",
+    "image": "https://i.ibb.co/tZymw74/4918828b-ae67-4a60-b22d-a5412124cd45-1-e10d99d5cca0e3a38055851b1ed71893.jpg",
+    "price": "89.00",
+    "brand": "Zinus",
+    "rating": 4.8,
+    "type": "Mattress Foundation",
+    "category": "Furniture",
+    "description": "The Zinus Shawn SmartBase Mattress Foundation provides sturdy support and easy setup for your mattress, eliminating the need for a traditional box spring. With its durable steel construction and sleek design, the SmartBase Mattress Foundation offers reliable stability and noise-free support for all mattress types, from memory foam to innerspring. Plus, with its compact packaging and tool-free assembly, the SmartBase Mattress Foundation is easy to transport and set up, making it perfect for apartments, dorms, and guest rooms. Whether you're upgrading your bedroom or outfitting a new home, the Zinus Shawn SmartBase Mattress Foundation offers the perfect combination of affordability, convenience, and durability."
+  },
+  {
+    "name": "Rivet Mid-Century Ceramic Planter with Iron Stand",
+    "image": "https://i.ibb.co/hH7wQG9/51f2qqfibml-sl500-608abc90119f8.jpg",
+    "price": "59.99",
+    "brand": "Rivet",
+    "rating": 4.6,
+    "type": "Planter",
+    "category": "Furniture",
+    "description": "The Rivet Mid-Century Ceramic Planter with Iron Stand adds modern elegance and greenery to your home decor. With its sleek ceramic pot and minimalist iron stand, the Planter offers a stylish showcase for your favorite houseplants, succulents, or flowers, while its drainage hole and removable plug ensure proper watering and drainage for healthy plant growth. Whether you place it in the living room, bedroom, or office, the Rivet Ceramic Planter adds a touch of nature and sophistication to any space, making it the perfect accent piece for your home."
+  },
+  {
+    "name": "Christopher Knight Home Callie Sofa Chair",
+    "image": "https://i.ibb.co/4pCt2ff/41-Ih-X0m-XAZL-AC.jpg",
+    "price": "299.99",
+    "brand": "Christopher Knight Home",
+    "rating": 4.7,
+    "type": "Sofa Chair",
+    "category": "Furniture",
+    "description": "The Christopher Knight Home Callie Sofa Chair combines comfort and style, making it the perfect addition to any living room, bedroom, or home office. With its plush cushions and modern design, the Sofa Chair offers a cozy spot for reading, relaxing, or enjoying conversations with family and friends, while its durable construction and sturdy legs ensure lasting stability and support. Whether you use it as a standalone accent piece or pair it with other furniture, the Christopher Knight Home Callie Sofa Chair adds elegance and comfort to any space, making it a versatile and stylish choice for your home."
+  },
+  {
+    "name": "Trek Marlin 7 Mountain Bike",
+    "image": "https://i.ibb.co/q9Dq4jb/Trek-Marlin-7-Gen-3-Hardtail-Mountain-Bike-2023-Azure.jpg",
+    "price": "899.99",
+    "brand": "Trek",
+    "rating": 4.8,
+    "type": "Mountain Bike",
+    "category": "Sports",
+    "description": "The Trek Marlin 7 Mountain Bike is a versatile and durable off-road machine that's perfect for conquering trails and exploring the great outdoors. With its lightweight aluminum frame, 2x9 drivetrain, and hydraulic disc brakes, the Marlin 7 offers reliable performance and precise control on any terrain. Plus, with features like a RockShox suspension fork and tubeless-ready wheels, the Marlin 7 delivers a smooth and stable ride over rocks, roots, and bumps, so you can tackle technical trails with confidence. Whether you're a beginner rider looking to hit the trails or an experienced cyclist seeking adventure, the Trek Marlin 7 Mountain Bike is ready to take you on your next off-road journey."
+  },
+  {
+    "name": "Wilson Ultra 100 Tennis Racquet",
+    "image": "https://i.ibb.co/cD7VyL1/rs-php-path-U100-V2-1.jpg",
+    "price": "189.99",
+    "brand": "Wilson",
+    "rating": 4.7,
+    "type": "Tennis Racquet",
+    "category": "Sports",
+    "description": "The Wilson Ultra 100 Tennis Racquet is a powerful and versatile racquet that's perfect for intermediate to advanced players looking to dominate the court. With its lightweight and maneuverable design, the Ultra 100 offers explosive power and easy maneuverability, allowing you to generate pace and spin with ease. Plus, with features like Parallel Drilling and Cushion Foam, the Ultra 100 provides a comfortable and responsive feel on every shot, reducing shock and vibration for enhanced control and precision. Whether you're serving aces, ripping winners, or chasing down balls, the Wilson Ultra 100 Tennis Racquet delivers the performance and playability you need to elevate your game to the next level."
+  },
+  {
+    "name": "Bauer Vapor X2.7 Ice Hockey Skates",
+    "image": "https://i.ibb.co/k52bq6T/X2-7-R-SKATE-351c3bba-b1fd-4081-a9d1-91155e55129d.jpg",
+    "price": "299.99",
+    "brand": "Bauer",
+    "rating": 4.9,
+    "type": "Ice Hockey Skates",
+    "category": "Sports",
+    "description": "The Bauer Vapor X2.7 Ice Hockey Skates are designed for speed, agility, and performance on the ice, offering advanced features and superior comfort for elite-level players. With their thermoformable boot and lightweight construction, the Vapor X2.7 skates provide a snug and responsive fit, maximizing power transfer and agility on the ice. Plus, with features like Tuuk Lightspeed Edge holders and LS1 steel blades, the Vapor X2.7 skates offer explosive acceleration, razor-sharp turns, and precise edge control, so you can outmaneuver opponents and dominate the game. Whether you're flying down the wing, crashing the net, or backchecking hard, the Bauer Vapor X2.7 Ice Hockey Skates deliver the speed, performance, and comfort you need to excel on the ice."
+  },
+  {
+    "name": "Yonex Nanoray 10F Badminton Racquet",
+    "image": "https://i.ibb.co/4f7tj71/513-OC2k-U50-L.jpg",
+    "price": "59.99",
+    "brand": "Yonex",
+    "rating": 4.6,
+    "type": "Badminton Racquet",
+    "category": "Sports",
+    "description": "The Yonex Nanoray 10F Badminton Racquet is a lightweight and maneuverable racquet that's perfect for recreational players and beginners learning the game. With its durable aluminum frame and Nanomesh + Carbon Nanotube technology, the Nanoray 10F offers a perfect blend of power, control, and precision, allowing you to execute shots with ease and confidence. Plus, with features like a built-in T-joint and Isometric head shape, the Nanoray 10F provides a larger sweet spot and improved accuracy, so you can hit clean, crisp shots every time. Whether you're playing singles, doubles, or just rallying with friends, the Yonex Nanoray 10F Badminton Racquet is the ideal choice for improving your game and having fun on the court."
+  },
+  {
+    "name": "Marmot Tungsten 3-Person Camping Tent",
+    "image": "https://i.ibb.co/R7Tx650/51r-Zw-A1-D7-L-AC-UF1000-1000-QL80.jpg",
+    "price": "299.95",
+    "brand": "Marmot",
+    "rating": 4.7,
+    "type": "Camping Tent",
+    "category": "Sports",
+    "description": "The Marmot Tungsten 3-Person Camping Tent is a spacious and durable shelter that's perfect for weekend camping trips and outdoor adventures. With its freestanding design and color-coded poles, the Tungsten 3P tent sets up quickly and easily, even for novice campers, so you can spend less time pitching and more time enjoying the great outdoors. Plus, with features like a full-coverage rainfly and seam-taped bathtub floor, the Tungsten 3P tent offers reliable protection from the elements, keeping you dry and comfortable in inclement weather. Whether you're camping in the mountains, by the lake, or in the backyard, the Marmot Tungsten 3-Person Camping Tent provides the space, comfort, and weather protection you need for a memorable outdoor experience."
+  },
+  {
+    "name": "Adidas Predator Freak.1 Firm Ground Soccer Cleats",
+    "image": "https://i.ibb.co/XjGL7RB/PREDATOR-FREAK-1-FG-RED-4.png",
+    "price": "249.99",
+    "brand": "Adidas",
+    "rating": 4.9,
+    "type": "Soccer Cleats",
+    "category": "Sports",
+    "description": "The Adidas Predator Freak.1 Firm Ground Soccer Cleats are designed for elite-level performance and precision on the pitch, offering advanced features and innovative technologies to help you dominate the game. With their Primeknit upper and Demonskin 2.0 technology, the Predator Freak.1 cleats provide superior ball control and spin, allowing you to dribble, pass, and shoot with accuracy and confidence. Plus, with features like a Controlframe outsole and Hybrid stud configuration, the Predator Freak.1 cleats offer exceptional traction and stability on firm ground surfaces, so you can make quick cuts and explosive movements with ease. Whether you're a playmaker, a striker, or a defender, the Adidas Predator Freak.1 Firm Ground Soccer Cleats are the perfect choice for taking your game to the next level."
+  },
+  {
+    "name": "Salomon Quest 4D 3 GTX Hiking Boots",
+    "image": "https://i.ibb.co/s3SvMhz/salomon-boots.jpg",
+    "price": "229.95",
+    "brand": "Salomon",
+    "rating": 4.9,
+    "type": "Hiking Boots",
+    "category": "Sports",
+    "description": "The Salomon Quest 4D 3 GTX Hiking Boots are the ultimate footwear for conquering rugged trails and challenging terrain, offering stability, support, and comfort for all your hiking adventures. With their lightweight and durable construction, the Quest 4D 3 GTX boots provide a precise and responsive fit, minimizing fatigue and maximizing agility on the trail. Plus, with features like a Gore-Tex membrane and Contagrip outsole, the Quest 4D 3 GTX boots offer waterproof protection and superior traction in any conditions, so you can hike with confidence, even in wet and slippery terrain. Whether you're tackling rocky scrambles, steep ascents, or muddy trails, the Salomon Quest 4D 3 GTX Hiking Boots provide the performance and reliability you need to reach new heights and explore with confidence."
+  },
+  {
+    "name": "ENO DoubleNest Hammock",
+    "image": "https://i.ibb.co/gtXJmPP/DH002-ENO-Double-Nest-Hammock-Navy-Royal-Bundle-800x-2ecbd31c-3b83-4244-a32f-274193154b1a.jpg",
+    "price": "69.95",
+    "brand": "ENO",
+    "rating": 4.7,
+    "type": "Hammock",
+    "category": "Sports",
+    "description": "The ENO DoubleNest Hammock is the ultimate relaxation companion for outdoor enthusiasts, offering comfort, durability, and convenience for all your outdoor lounging needs. With its lightweight and compact design, the DoubleNest Hammock is easy to pack and transport, making it perfect for camping trips, beach days, and backyard hangouts. Plus, with its high-strength nylon construction and triple interlocking stitching, the DoubleNest Hammock supports up to 400 pounds, ensuring reliable performance and long-lasting durability. Whether you're lounging solo or snuggling up with a friend, the ENO DoubleNest Hammock provides a cozy and comfortable oasis wherever your adventures take you."
+  }
+]
