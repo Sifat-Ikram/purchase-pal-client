@@ -11,6 +11,7 @@ import LogIn from "./components/pages/sign/LogIn.jsx";
 import AuthProvider from "./components/provider/AuthProvider.jsx";
 import AllProduct from "./components/pages/product/AllProduct.jsx";
 import ProductDetails from "./components/pages/productDetails/ProductDetails.jsx";
+import Shop from "./components/pages/shop/Shop.jsx";
 const queryClient = new QueryClient();
 
 const router = createBrowserRouter([
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
       {
         path: "/details/:id",
         element: <ProductDetails />
+      },
+      {
+        path: "/shop",
+        element: <Shop />
       }
     ],
   },

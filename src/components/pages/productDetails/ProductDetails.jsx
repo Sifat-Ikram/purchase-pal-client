@@ -5,13 +5,15 @@ import { FaStar, FaThumbsUp, FaThumbsDown, FaReply } from "react-icons/fa";
 import { useContext, useState } from "react";
 import { AuthContext } from "../../provider/AuthProvider";
 import Swal from "sweetalert2";
+import useCart from "../../hooks/useCart";
 
 const ProductDetails = () => {
-    const { user } = useContext(AuthContext);
+  const { user } = useContext(AuthContext);
   const { id } = useParams();
   const axiosPublic = useAxiosPublic();
   const [reviewText, setReviewText] = useState("");
   const [rating, setRating] = useState(0);
+  const [, refetch] = useCart();
 
   const {
     data: products,
@@ -41,17 +43,52 @@ const ProductDetails = () => {
 
   const handleReviewSubmit = async (e) => {
     e.preventDefault();
-    const ReviewInfo = {
-        name: user.displayName,
-        rating: e.rating,
-        reviewText: e.reviewText,
-      };
-  
-      const ReviewRes = await axiosPublic.post(`/review`, ReviewInfo);
-  
-      if (ReviewRes.data.modifiedCount) {
-        Swal.fire("Review updated successfully");
+    const reviewInfo = {
+      username: user?.displayName,
+      rating,
+      text: reviewText,
+      productId: id,
+      date: new Date().toISOString(),
+    };
+
+    try {
+      console.log(reviewInfo);
+      const res = await axiosPublic.post(`/review`, reviewInfo);
+      if (res.status === 200) {
+        setReviewText("");
+        setRating(0);
       }
+    } catch (error) {
+      console.error("Error submitting review:", error);
+      Swal.fire("Failed to submit review");
+    }
+  };
+
+  const handleOrder = (item) => {
+    const cartItem = {
+      productId: item._id,
+      email: user.email,
+      name: item.name,
+      category: item.category,
+      image: item.image,
+      price: parseFloat(item.price),
+      brand: item.brand,
+      type: item.type,
+      details: item.details
+    };
+
+    axiosPublic.post("/cart", cartItem).then((res) => {
+      if (res.data.insertedId) {
+        Swal.fire({
+          position: "center",
+          icon: "success",
+          title: "This item is added to the cart",
+          showConfirmButton: false,
+          timer: 1000,
+        });
+        refetch();
+      }
+    });
   };
 
   return (
@@ -65,10 +102,9 @@ const ProductDetails = () => {
             className="rounded-lg w-full mb-4"
           />
         </div>
-        {/* selectedProduct Information */}
+        {/* Selected Product Information */}
         <div>
           <h1 className="text-3xl font-bold mb-4">{selectedProduct.name}</h1>
-          <p className="text-gray-700 mb-4">{selectedProduct.description}</p>
           <p className="text-2xl font-bold mb-2">
             Price: ${selectedProduct.price}
           </p>
@@ -104,7 +140,7 @@ const ProductDetails = () => {
             </div>
           </div>
           <div>
-            <button className="buttons w-3/4 mx-auto">Add to Cart</button>
+            <button onClick={()=> handleOrder(selectedProduct)} className="buttons w-3/4 mx-auto">Add to Cart</button>
           </div>
         </div>
       </div>
@@ -140,10 +176,7 @@ const ProductDetails = () => {
               ))}
             </div>
           </div>
-          <button
-            type="submit"
-            className="buttons"
-          >
+          <button type="submit" className="buttons">
             Submit Review
           </button>
         </form>
