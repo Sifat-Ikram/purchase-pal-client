@@ -74,7 +74,7 @@ const ProductDetails = () => {
       price: parseFloat(item.price),
       brand: item.brand,
       type: item.type,
-      details: item.details
+      description: item.description
     };
 
     axiosPublic.post("/cart", cartItem).then((res) => {
@@ -147,7 +147,7 @@ const ProductDetails = () => {
 
       <div className="mb-20">
         <h2 className="text-2xl font-semibold mb-4">Product Description</h2>
-        <p>{selectedProduct.details}</p>
+        <p>{selectedProduct.description}</p>
       </div>
 
       {/* Review Form */}

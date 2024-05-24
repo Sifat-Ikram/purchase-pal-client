@@ -27,8 +27,6 @@ const Shop = () => {
     setDiscountedAmount(calculateTotalCost());
   }, [cart]);
 
-  
-
   const incrementQuantity = (itemId) => {
     setAmounts((prevAmounts) => ({
       ...prevAmounts,
@@ -61,24 +59,24 @@ const Shop = () => {
     setDiscountedAmount(newDiscountedAmount);
   };
 
-  const handleOrderCard = async() => {
+  const handleOrderCard = async () => {
     const stripe = await loadStripe(import.meta.env.VITE_strip_hosting_key);
     const body = {
-      products: cart
-    }
+      products: cart,
+    };
     const headers = {
-      "Content-Type":"application/json"
-    }
+      "Content-Type": "application/json",
+    };
     const response = await fetch("http://localhost:4321/checkout-session", {
       method: "POST",
       headers: headers,
-      body: JSON.stringify(body)
+      body: JSON.stringify(body),
     });
     const session = await response.json();
     const result = stripe.redirectToCheckout({
-      sessionId: session.id
+      sessionId: session.id,
     });
-    if(result.error){
+    if (result.error) {
       console.log(result.error);
     }
   };
@@ -151,49 +149,51 @@ const Shop = () => {
   };
 
   return (
-    <div className="flex">
+    <div className="flex w-11/12 mx-auto">
       <div className="w-full">
-        <div className="w-11/12 mx-auto mt-10">
-          <h1 className="text-2xl font-bold mb-5">Your Ordered Items</h1>
-          <div className="flex gap-20">
-            <div className="w-1/2 border-t-2">
-              {cart?.map((item) => (
-                <div key={item._id} className="p-4 border-b-2">
-                  <div className="flex justify-between">
-                    <p className="font-bold">Name: {item.name}</p>
-                    <p className="text-gray-600">Price: ${item.price}</p>
-                  </div>
-                  <div className="flex justify-between items-center mt-3">
-                    <h1 className="text-lg">Select quantity:</h1>
-                    <div className="flex items-center">
+        <div>
+          <div className="flex gap-28 mt-2">
+            <div className="w-1/2">
+              <h1 className="text-4xl font-bold my-5">Your Ordered Items</h1>
+              <div>
+                {cart?.map((item) => (
+                  <div key={item._id} className="p-4  border-t-2">
+                    <div className="flex justify-between">
+                      <p className="font-bold">Name: {item.name}</p>
+                      <p className="text-gray-600">Price: ${item.price}</p>
+                    </div>
+                    <div className="flex justify-between items-center mt-3">
+                      <h1 className="text-lg">Select quantity:</h1>
+                      <div className="flex items-center">
+                        <button
+                          onClick={() => decrementQuantity(item.name)}
+                          className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold px-2 rounded-l"
+                        >
+                          -
+                        </button>
+                        <h1 className="mx-5">{amounts[item.name]}</h1>
+                        <button
+                          onClick={() => incrementQuantity(item.name)}
+                          className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold px-2 rounded-r"
+                        >
+                          +
+                        </button>
+                      </div>
+                    </div>
+                    <p className="font-bold mt-2">
+                      Total: ${item.price * (amounts[item.name] || 0)}
+                    </p>
+                    <div className="flex justify-end mt-2">
                       <button
-                        onClick={() => decrementQuantity(item.name)}
-                        className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold px-2 rounded-l"
+                        onClick={() => handleDelete(item)}
+                        className="bg-red-700 hover:bg-red-900 rounded-md flex items-center gap-2 px-2 py-1 text-lg font-semibold text-white hover:text-white"
                       >
-                        -
-                      </button>
-                      <h1 className="mx-5">{amounts[item.name]}</h1>
-                      <button
-                        onClick={() => incrementQuantity(item.name)}
-                        className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold px-2 rounded-r"
-                      >
-                        +
+                        <MdDelete className="text-2xl"></MdDelete>Delete
                       </button>
                     </div>
                   </div>
-                  <p className="font-bold mt-2">
-                    Total: ${item.price * (amounts[item.name] || 0)}
-                  </p>
-                  <div className="flex justify-end mt-2">
-                    <button
-                      onClick={() => handleDelete(item)}
-                      className="bg-red-700 hover:bg-red-900 rounded-md flex items-center gap-2 px-2 py-1 text-lg font-semibold text-white hover:text-white"
-                    >
-                      <MdDelete className="text-2xl"></MdDelete>Delete
-                    </button>
-                  </div>
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
             <div className="flex-1 bg-gray-200 h-fit p-8 rounded-lg shadow-md">
               <h2 className="text-2xl font-bold mb-6">Order Summary</h2>
@@ -229,19 +229,13 @@ const Shop = () => {
               <div>
                 <p className="text-lg font-bold mb-5">Select Payment Method:</p>
                 <div className="flex flex-col items-center">
-                  <button
-                    onClick={handleOrderCard}
-                    className="buttons w-full"
-                  >
+                  <button onClick={handleOrderCard} className="buttons w-full">
                     Card Payment
                   </button>
                 </div>
               </div>
               <h1 className="text-lg my-5 text-center">or</h1>
-              <button
-                className="buttons w-full"
-                onClick={handleOrderFinal}
-              >
+              <button className="buttons w-full" onClick={handleOrderFinal}>
                 Cash on delivery
               </button>
             </div>

@@ -47,24 +47,17 @@ const Navbar = () => {
         )}
       </li>
       <li>
-        {!user ? (
+        {!user && (
           <a className="nav-link font-semibold hover:text-[#04734C]" href="/register">
             Sign up
           </a>
-        ) : (
-          <h1
-            onClick={handleLogOut}
-            className="nav-link font-semibold hover:text-[#04734C] cursor-pointer"
-          >
-            Sign out
-          </h1>
         )}
       </li>
     </>
   );
 
   return (
-    <nav className="navbar justify-between md:px-8 lg:px-16 z-10 top-0 bg-white shadow fixed w-full">
+    <nav className="navbar justify-between md:px-8 lg:px-16 z-20 top-0 bg-white shadow fixed w-full">
       <div className="navbar-start md:hidden">
         <div className="dropdown" onClick={toggleDropdown}>
           <div tabIndex={0} role="button" className="btn btn-ghost">
@@ -94,8 +87,10 @@ const Navbar = () => {
           <ul className="flex gap-4">{navLinks}</ul>
           <div>
             {user ? (
-              <div className="flex gap-3 items-center">
+              <div className="tooltip tooltip-bottom cursor-pointer" data-tip="Sign Out">
+              <div onClick={handleLogOut} className="flex gap-3 items-center">
                 <h1 className="nav-link font-semibold">{user.displayName}</h1>
+              </div>
               </div>
             ) : (
               <Link to={"/logIn"}>

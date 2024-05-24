@@ -99,7 +99,7 @@ const AllProduct = () => {
   const brands = Array.from(new Set(products.map((product) => product.brand)));
 
   return (
-    <div className="container mx-auto flex max-lg:flex-col">
+    <div className="container mx-auto mt-20 flex max-lg:flex-col">
       <div className="w-full lg:w-1/4 bg-gray-100 p-6 -mt-4 border-r-2 border-solid shadow-md mb-6 lg:mb-0 lg:fixed lg:left-0 lg:h-full">
         <div className="mb-6">
           <h2 className="text-lg font-semibold mb-4">Search Product</h2>

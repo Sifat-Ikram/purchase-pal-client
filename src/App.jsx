@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <div className="min-h-screen my-20 relative">
+      <div className="min-h-screen mt-16 relative">
         <Outlet />
       </div>
     </div>
