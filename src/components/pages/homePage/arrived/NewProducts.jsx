@@ -42,8 +42,6 @@ const NewProducts = () => {
     return <p className="text-center">No accessories available</p>;
   }
 
-  console.log(selectedProducts);
-
   return (
     <div className="w-11/12 mx-auto">
       <h1 className="text-4xl font-bold">Newly Arrived Gadgets</h1>

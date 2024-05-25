@@ -2,11 +2,13 @@ import { useContext, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import sign from "../../../assets/sign.png";
 import { updateProfile } from "firebase/auth";
-// import Swal from 'sweetalert2';
+import Swal from 'sweetalert2';
 import { FcGoogle } from "react-icons/fc";
 import { AuthContext } from "../../provider/AuthProvider";
+import useAxiosPublic from "../../hooks/useAxiosPublic";
 
 const Register = () => {
+  const axiosPublic = useAxiosPublic();
   const { createUser, googleRegister } = useContext(AuthContext);
   const navigate = useNavigate();
   const location = useLocation();
@@ -22,25 +24,25 @@ const Register = () => {
           email: res.user.email,
         });
 
-        // const userInfo = {
-        //     name: res.user.name,
-        //     email: res.user.email
-        // }
+        const userInfo = {
+            name: res.user.name,
+            email: res.user.email
+        }
 
-        // axiosPublic.post("/user", userInfo)
-        //     .then(res => {
+        axiosPublic.post("/user", userInfo)
+            .then(res => {
 
-        //         if (res.data.insertedId) {
-        //             navigate(location?.state ? location.state : '/');
-        //             Swal.fire({
-        //                 position: "top-end",
-        //                 icon: "success",
-        //                 title: "You signed up successfully!",
-        //                 showConfirmButton: false,
-        //                 timer: 1500
-        //             });
-        //         }
-        //     })
+                if (res.data.insertedId) {
+                    navigate(location?.state ? location.state : '/');
+                    Swal.fire({
+                        position: "top-end",
+                        icon: "success",
+                        title: "You signed up successfully!",
+                        showConfirmButton: false,
+                        timer: 1500
+                    });
+                }
+            })
       })
       .catch((err) => {
         console.error(err.message);
@@ -75,25 +77,25 @@ const Register = () => {
         });
         navigate(location?.state ? location.state : "/");
 
-        // const userInfo = {
-        //     name: name,
-        //     email: email
-        // }
+        const userInfo = {
+            name: name,
+            email: email
+        }
 
-        // axiosPublic.post("/user", userInfo)
-        //     .then(res => {
+        axiosPublic.post("/user", userInfo)
+            .then(res => {
 
-        //         if (res.data.insertedId) {
-        //             navigate(location?.state ? location.state : '/');
-        //             Swal.fire({
-        //                 position: "top-end",
-        //                 icon: "success",
-        //                 title: "You signed up successfully!",
-        //                 showConfirmButton: false,
-        //                 timer: 1500
-        //             });
-        //         }
-        //     })
+                if (res.data.insertedId) {
+                    navigate(location?.state ? location.state : '/');
+                    Swal.fire({
+                        position: "top-end",
+                        icon: "success",
+                        title: "You signed up successfully!",
+                        showConfirmButton: false,
+                        timer: 1500
+                    });
+                }
+            })
       })
       .catch((err) => {
         console.error(err);

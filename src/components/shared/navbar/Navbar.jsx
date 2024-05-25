@@ -2,13 +2,13 @@ import { useContext, useState } from "react";
 import { SiBigcartel } from "react-icons/si";
 import { HiMenu } from "react-icons/hi";
 import { AuthContext } from "../../provider/AuthProvider";
-// import useAdmin from "../../hooks/useAdmin";
 import { Link } from "react-router-dom";
+import useAdmin from "../../hooks/useAdmin";
 
 const Navbar = () => {
   const { logOut, user } = useContext(AuthContext);
   const [dropdownOpen, setDropdownOpen] = useState(false);
-  //   const [isAdmin] = useAdmin();
+  const [isAdmin] = useAdmin();
 
   const handleLogOut = async () => {
     try {
@@ -35,20 +35,39 @@ const Navbar = () => {
         </a>
       </li>
       <li>
-        <a className="nav-link font-semibold hover:text-[#04734C]" href={"/allProduct"}>
+        <a
+          className="nav-link font-semibold hover:text-[#04734C]"
+          href={"/allProduct"}
+        >
           All Products
         </a>
       </li>
       <li>
         {user && (
-          <a className="nav-link font-semibold hover:text-[#04734C]" href={"/shop"}>
-            Shop
+          <a
+            className="nav-link font-semibold hover:text-[#04734C]"
+            href={"/shop"}
+          >
+            Cart
+          </a>
+        )}
+      </li>
+      <li>
+        {isAdmin && (
+          <a
+            className="nav-link font-semibold hover:text-[#04734C]"
+            href={"/dashboard/allUser"}
+          >
+            Dashboard
           </a>
         )}
       </li>
       <li>
         {!user && (
-          <a className="nav-link font-semibold hover:text-[#04734C]" href="/register">
+          <a
+            className="nav-link font-semibold hover:text-[#04734C]"
+            href="/register"
+          >
             Sign up
           </a>
         )}
@@ -87,10 +106,13 @@ const Navbar = () => {
           <ul className="flex gap-4">{navLinks}</ul>
           <div>
             {user ? (
-              <div className="tooltip tooltip-bottom cursor-pointer" data-tip="Sign Out">
-              <div onClick={handleLogOut} className="flex gap-3 items-center">
-                <h1 className="nav-link font-semibold">{user.displayName}</h1>
-              </div>
+              <div
+                className="tooltip tooltip-bottom cursor-pointer"
+                data-tip="Sign Out"
+              >
+                <div onClick={handleLogOut} className="flex gap-3 items-center">
+                  <h1 className="nav-link font-semibold">{user.displayName}</h1>
+                </div>
               </div>
             ) : (
               <Link to={"/logIn"}>

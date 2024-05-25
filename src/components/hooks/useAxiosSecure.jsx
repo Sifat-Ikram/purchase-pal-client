@@ -5,7 +5,7 @@ import { AuthContext } from '../provider/AuthProvider';
 
 
 const axiosSecure = axios.create({
-    baseURL: 'https://taste-trail-server.vercel.app'
+    baseURL: 'http://localhost:4321'
 })
 const useAxiosSecure = () => {
     const { logOut } = useContext(AuthContext);

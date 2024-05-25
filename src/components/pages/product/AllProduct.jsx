@@ -163,10 +163,12 @@ const AllProduct = () => {
                 <img src={product.image} alt={product.name} className="w-full h-full object-cover" />
               </figure>
               <div className="p-4">
+                <div className="h-[130px]">
                 <h2 className="text-xl font-semibold">{product.name}</h2>
                 <p className="text-gray-600">Brand: {product.brand}</p>
                 <p className="text-gray-800 font-bold">${product.price}</p>
                 <p className="text-yellow-500">Rating: {product.rating}</p>
+                </div>
                 <div className="mt-4">
                   <Link to={`/details/${product._id}`}>
                     <button className="buttons w-full">View Details</button>

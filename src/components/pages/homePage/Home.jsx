@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 import img from "../../../assets/home/exclusive.jpg";
 import NewProducts from "./arrived/NewProducts";
 import ExtraSupport from "./extraSupport/ExtraSupport";
+import SearchProduct from "./searchProduct/SearchProduct";
+import FeaturedProducts from "./featuredProduct/FeaturedProduct";
 
 const Home = () => {
   const axiosPublic = useAxiosPublic();
@@ -48,6 +50,15 @@ const Home = () => {
         </div>
       </div>
       <div>
+        <SearchProduct />
+      </div>
+      <div>
+        <FeaturedProducts />
+      </div>
+      <div>
+        <NewProducts />
+      </div>
+      <div>
         <div className="hero bg-base-200">
           <div className="hero-content flex-col lg:flex-row">
             <div className="lg:w-1/2">
@@ -74,9 +85,6 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </div>
-      <div>
-        <NewProducts />
       </div>
       <div>
         <ExtraSupport />
